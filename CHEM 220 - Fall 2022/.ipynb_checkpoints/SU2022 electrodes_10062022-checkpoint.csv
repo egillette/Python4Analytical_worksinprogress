@@ -1,0 +1,58 @@
+﻿Worksheet exported from: C:\Users\USD\Documents\Agilent\ICP Expert\My Results\Gillette\Nick Ni method 1.esws,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Instrument name,MY2134CQ01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Software version,7.6.0.12121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Firmware version,5590,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Label,Rack:Tube,Type,Date Time,Element,Element Label,Flags,Unadjusted Data,Concentration,Unit,Intensity,Concentration SD,Concentration % RSD,Intensity SD,Intensity % RSD,%RSE,Weight,Volume,Dilution,Internal Standard,Calibration fit,Correlation coefficient,Background correction,%RSE limit,Calibration Coefficient [1],Calibration Coefficient [2],Calibration Coefficient [3],LIMS ID,Customer,Customer Ref.,Sample Date Time,Sample Site,Description,Replicates,Concentration Replicate 1,Concentration Replicate 2,Concentration Replicate 3,Intensity Replicate 1,Intensity Replicate 2,Intensity Replicate 3,Flags Replicate 1,Flags Replicate 2,Flags Replicate 3
+Blank,1:01,BLK,10/6/2022 14:00,Ni 216.555,Ni,,0,0,ppm,47.51,-,-,9.26,19.48,12.4,-,-,-,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,0,0,0,38.22,47.58,56.74,,,
+Blank,1:01,BLK,10/6/2022 14:00,Ni 221.648,Ni,,0,0,ppm,44.61,-,-,5.81,13.03,17.76,-,-,-,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,0,0,0,45.8,38.29,49.74,,,
+Blank,1:01,BLK,10/6/2022 14:00,Ni 231.604,Ni,,0,0,ppm,59.85,-,-,7.32,12.23,26.44,-,-,-,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,0,0,0,52.47,67.1,59.97,,,
+Standard 1,1:02,STD,10/6/2022 14:02,Ni 216.555,Ni,,0.1,0.1,ppm,748.26,-,-,8.76,1.17,12.4,-,-,-,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,0.1,0.1,0.1,746.81,740.31,757.66,,,
+Standard 1,1:02,STD,10/6/2022 14:02,Ni 221.648,Ni,,0.1,0.1,ppm,876.38,-,-,7.68,0.88,17.76,-,-,-,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,0.1,0.1,0.1,874.21,870.02,884.92,,,
+Standard 1,1:02,STD,10/6/2022 14:02,Ni 231.604,Ni,,0.1,0.1,ppm,1234.07,-,-,29.43,2.38,26.44,-,-,-,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,0.1,0.1,0.1,1201.06,1243.57,1257.56,,,
+Standard 2,1:03,STD,10/6/2022 14:04,Ni 216.555,Ni,,1,1,ppm,5036.53,-,-,46.42,0.92,12.4,-,-,-,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,1,1,1,5037.53,4989.61,5082.43,,,
+Standard 2,1:03,STD,10/6/2022 14:04,Ni 221.648,Ni,,1,1,ppm,5907.86,-,-,56.09,0.95,17.76,-,-,-,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,1,1,1,5922.16,5846.01,5955.42,,,
+Standard 2,1:03,STD,10/6/2022 14:04,Ni 231.604,Ni,,1,1,ppm,8307.15,-,-,75.82,0.91,26.44,-,-,-,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,1,1,1,8349.4,8219.62,8352.45,,,
+Standard 3,1:04,STD,10/6/2022 14:05,Ni 216.555,Ni,,5,5,ppm,24383.6,-,-,81.49,0.33,12.4,-,-,-,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,5,5,5,24289.64,24426.17,24434.99,,,
+Standard 3,1:04,STD,10/6/2022 14:05,Ni 221.648,Ni,,5,5,ppm,28530.78,-,-,77.65,0.27,17.76,-,-,-,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,5,5,5,28446.94,28600.24,28545.15,,,
+Standard 3,1:04,STD,10/6/2022 14:05,Ni 231.604,Ni,,5,5,ppm,39957.16,-,-,125.07,0.31,26.44,-,-,-,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,5,5,5,39842.95,40090.82,39937.7,,,
+Standard 4,1:05,STD,10/6/2022 14:07,Ni 216.555,Ni,,10,10,ppm,48531.5,-,-,164.41,0.34,12.4,-,-,-,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,10,10,10,48715.37,48398.64,48480.49,,,
+Standard 4,1:05,STD,10/6/2022 14:07,Ni 221.648,Ni,,10,10,ppm,56805.39,-,-,264.88,0.47,17.76,-,-,-,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,10,10,10,57104.11,56712.87,56599.18,,,
+Standard 4,1:05,STD,10/6/2022 14:07,Ni 231.604,Ni,,10,10,ppm,80001.48,-,-,336.46,0.42,26.44,-,-,-,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,10,10,10,80384.85,79864.35,79755.23,,,
+Standard 5,1:06,STD,10/6/2022 14:09,Ni 216.555,Ni,,50,50,ppm,234238.82,-,-,602.03,0.26,12.4,-,-,-,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,50,50,50,233607.17,234806.05,234303.25,,,
+Standard 5,1:06,STD,10/6/2022 14:09,Ni 221.648,Ni,,50,50,ppm,272962.69,-,-,682.8,0.25,17.76,-,-,-,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,50,50,50,272184.4,273460.97,273242.71,,,
+Standard 5,1:06,STD,10/6/2022 14:09,Ni 231.604,Ni,,50,50,ppm,385203.64,-,-,1160.94,0.3,26.44,-,-,-,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,50,50,50,383878.72,386042.82,385689.38,,,
+Sample 1,1:07,Sample,10/6/2022 14:11,Ni 216.555,Ni,,Uncal,Uncal,ppm,87.74,-,-,2.46,2.8,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,87.67,85.32,90.23,Uncal,Uncal,Uncal
+Sample 1,1:07,Sample,10/6/2022 14:11,Ni 221.648,Ni,,Uncal,Uncal,ppm,113.33,-,-,6.35,5.61,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,119.84,107.15,113,Uncal,Uncal,Uncal
+Sample 1,1:07,Sample,10/6/2022 14:11,Ni 231.604,Ni,,Uncal,Uncal,ppm,141.56,-,-,6.47,4.57,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,147.19,134.5,142.99,Uncal,Uncal,Uncal
+Sample 2,1:08,Sample,10/6/2022 14:13,Ni 216.555,Ni,,Uncal,Uncal,ppm,57.97,-,-,4.76,8.21,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,53.61,57.24,63.05,Uncal,Uncal,Uncal
+Sample 2,1:08,Sample,10/6/2022 14:13,Ni 221.648,Ni,,Uncal,Uncal,ppm,102.05,-,-,3.94,3.86,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,99.98,106.6,99.58,Uncal,Uncal,Uncal
+Sample 2,1:08,Sample,10/6/2022 14:13,Ni 231.604,Ni,,Uncal,Uncal,ppm,97.72,-,-,7.03,7.19,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,89.87,99.87,103.42,Uncal,Uncal,Uncal
+Sample 3,1:09,Sample,10/6/2022 14:15,Ni 216.555,Ni,,Uncal,Uncal,ppm,51.41,-,-,5.6,10.89,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,57.22,50.93,46.06,Uncal,Uncal,Uncal
+Sample 3,1:09,Sample,10/6/2022 14:15,Ni 221.648,Ni,,Uncal,Uncal,ppm,97.79,-,-,3.47,3.55,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,101.66,94.97,96.74,Uncal,Uncal,Uncal
+Sample 3,1:09,Sample,10/6/2022 14:15,Ni 231.604,Ni,,Uncal,Uncal,ppm,71.98,-,-,8.92,12.4,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,82.28,66.83,66.81,Uncal,Uncal,Uncal
+Sample 4,1:10,Sample,10/6/2022 14:16,Ni 216.555,Ni,,Uncal,Uncal,ppm,100.65,-,-,5.51,5.48,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,103.67,94.28,103.98,Uncal,Uncal,Uncal
+Sample 4,1:10,Sample,10/6/2022 14:16,Ni 221.648,Ni,,Uncal,Uncal,ppm,149.01,-,-,6.3,4.23,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,151.63,153.59,141.83,Uncal,Uncal,Uncal
+Sample 4,1:10,Sample,10/6/2022 14:16,Ni 231.604,Ni,,Uncal,Uncal,ppm,162.94,-,-,1.55,0.95,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,163.46,164.18,161.2,Uncal,Uncal,Uncal
+Sample 5,1:11,Sample,10/6/2022 14:18,Ni 216.555,Ni,,Uncal,Uncal,ppm,468.04,-,-,12.34,2.64,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,457.22,481.47,465.43,Uncal,Uncal,Uncal
+Sample 5,1:11,Sample,10/6/2022 14:18,Ni 221.648,Ni,,Uncal,Uncal,ppm,541.33,-,-,5.97,1.1,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,543.92,545.56,534.5,Uncal,Uncal,Uncal
+Sample 5,1:11,Sample,10/6/2022 14:18,Ni 231.604,Ni,,Uncal,Uncal,ppm,762.95,-,-,19.72,2.58,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,783.51,761.15,744.2,Uncal,Uncal,Uncal
+Sample 6,1:12,Sample,10/6/2022 14:20,Ni 216.555,Ni,,Uncal,Uncal,ppm,65.9,-,-,7.5,11.39,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,64.87,73.86,58.96,Uncal,Uncal,Uncal
+Sample 6,1:12,Sample,10/6/2022 14:20,Ni 221.648,Ni,,Uncal,Uncal,ppm,95.09,-,-,2.33,2.45,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,97.74,94.19,93.35,Uncal,Uncal,Uncal
+Sample 6,1:12,Sample,10/6/2022 14:20,Ni 231.604,Ni,,Uncal,Uncal,ppm,92.53,-,-,5.72,6.18,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,87.47,98.74,91.38,Uncal,Uncal,Uncal
+Sample 7,1:13,Sample,10/6/2022 14:22,Ni 216.555,Ni,,Uncal,Uncal,ppm,44.58,-,-,9.53,21.38,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,52.2,47.65,33.89,Uncal,Uncal,Uncal
+Sample 7,1:13,Sample,10/6/2022 14:22,Ni 221.648,Ni,,Uncal,Uncal,ppm,96.5,-,-,18.88,19.56,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,75.02,110.48,103.99,Uncal,Uncal,Uncal
+Sample 7,1:13,Sample,10/6/2022 14:22,Ni 231.604,Ni,,Uncal,Uncal,ppm,73.48,-,-,5.03,6.84,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,67.81,77.39,75.24,Uncal,Uncal,Uncal
+Sample 8,1:14,Sample,10/6/2022 14:24,Ni 216.555,Ni,,Uncal,Uncal,ppm,49.11,-,-,5.13,10.46,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,53.25,43.36,50.72,Uncal,Uncal,Uncal
+Sample 8,1:14,Sample,10/6/2022 14:24,Ni 221.648,Ni,,Uncal,Uncal,ppm,90.14,-,-,4.41,4.89,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,93.55,85.17,91.7,Uncal,Uncal,Uncal
+Sample 8,1:14,Sample,10/6/2022 14:24,Ni 231.604,Ni,,Uncal,Uncal,ppm,81.05,-,-,9.1,11.22,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,89.9,81.52,71.72,Uncal,Uncal,Uncal
+Sample 9,1:15,Sample,10/6/2022 14:25,Ni 216.555,Ni,,Uncal,Uncal,ppm,47.81,-,-,10.35,21.64,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,59.71,42.73,40.98,Uncal,Uncal,Uncal
+Sample 9,1:15,Sample,10/6/2022 14:25,Ni 221.648,Ni,,Uncal,Uncal,ppm,91.46,-,-,10.77,11.78,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,103.37,88.59,82.41,Uncal,Uncal,Uncal
+Sample 9,1:15,Sample,10/6/2022 14:25,Ni 231.604,Ni,,Uncal,Uncal,ppm,66.21,-,-,4.79,7.24,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,62.78,64.18,71.69,Uncal,Uncal,Uncal
+Sample 10,1:16,Sample,10/6/2022 14:27,Ni 216.555,Ni,,Uncal,Uncal,ppm,54.61,-,-,6.24,11.44,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,53.7,48.87,61.26,Uncal,Uncal,Uncal
+Sample 10,1:16,Sample,10/6/2022 14:27,Ni 221.648,Ni,,Uncal,Uncal,ppm,89.41,-,-,5.66,6.33,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,95.42,88.64,84.17,Uncal,Uncal,Uncal
+Sample 10,1:16,Sample,10/6/2022 14:27,Ni 231.604,Ni,,Uncal,Uncal,ppm,79.51,-,-,15.66,19.7,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,97.17,67.29,74.06,Uncal,Uncal,Uncal
+Sample 11,1:17,Sample,10/6/2022 14:29,Ni 216.555,Ni,,Uncal,Uncal,ppm,54.85,-,-,11.09,20.23,12.4,1,1,1,-,Linear,0.99998,Fitted,-,169.3813745,4775.737188,-,,,,,,,3,Uncal,Uncal,Uncal,52.04,67.08,45.44,Uncal,Uncal,Uncal
+Sample 11,1:17,Sample,10/6/2022 14:29,Ni 221.648,Ni,,Uncal,Uncal,ppm,94.36,-,-,0.85,0.9,17.76,1,1,1,-,Linear,0.99997,Fitted,-,146.0266864,5598.495726,-,,,,,,,3,Uncal,Uncal,Uncal,93.59,95.27,94.21,Uncal,Uncal,Uncal
+Sample 11,1:17,Sample,10/6/2022 14:29,Ni 231.604,Ni,,Uncal,Uncal,ppm,78.06,-,-,9.99,12.8,26.44,1,1,1,-,Linear,0.99997,Fitted,-,86.84989839,7884.40446,-,,,,,,,3,Uncal,Uncal,Uncal,72.33,72.26,89.6,Uncal,Uncal,Uncal
