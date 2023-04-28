@@ -1,0 +1,918 @@
+StationName,StationCode,RegionName,Analyte,Trend,LastSampleDate,LastResult,Unit
+Eighteen Mile Creek above Old Gasquet Rd.,103WER030,North Coast,"Lead, Total",Insufficient data,8/10/2011,0.015,ug/L
+Rowdy Creek at Alexander Access,103RW0319,North Coast,"Lead, Total",Insufficient data,6/23/2015,3.513,mg/Kg dw
+"Mojave River, below Forks Res",628MOJ002,Lahontan,"Lead, Total",Insufficient data,4/18/2011,0.015,ug/L
+El Charro,204ALP010,San Francisco Bay,"Lead, Total",Insufficient data,9/18/2001,11.5,mg/Kg dw
+"Salmon River, SF above Grizzly Creek",105PS0090,North Coast,"Lead, Total",Insufficient data,8/7/2012,0.015,ug/L
+Dry Creek at Paradise,521BUT206,Central Valley,"Lead, Total",Insufficient data,11/13/2019,0.25,ug/L
+Clear Creek at Paradise,521BUT205,Central Valley,"Lead, Total",Insufficient data,11/13/2019,0.25,ug/L
+Rincon Creek at Bates Road,315RIN,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+Delilah Creek at Sarina Road,103DE5776,North Coast,"Lead, Total",Insufficient data,6/24/2015,5.412,ug/L
+Orcutt Creek @ Hwy 1,312ORI,Central Coast,"Lead, Total",Insufficient data,12/12/2019,2.51,ug/L
+Salmon Creek upstream Hwy 1,308SAM,Central Coast,"Lead, Total",Insufficient data,11/3/2015,0.5,ug/L
+"Gazos Creek, at Gazos Creek Road",304GZR,Central Coast,"Lead, Total",Insufficient data,12/19/2017,0.03,ug/L
+"Austin Creek, East ~0.4mi above Old Cazadero Rd.",114WE0614,North Coast,"Lead, Total",Insufficient data,7/9/2012,0.015,ug/L
+San Lorenzo Estuary at Laurel Street,304LOR,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.09,ug/L
+Old Salinas River at Monterey Dunes Way,309OLD,Central Coast,"Lead, Total",Insufficient data,3/9/2016,1.21,ug/L
+Aptos Creek at Spreckles Drive,304APT,Central Coast,"Lead, Total",Insufficient data,12/19/2017,0.04,ug/L
+Big Sur River at Andrew Molera foot bridge,308BSR,Central Coast,"Lead, Total",Insufficient data,11/30/2017,0.05,ug/L
+Main Street Canal at Main Street Crossing,312MSD,Central Coast,"Lead, Total",Insufficient data,12/4/2019,42.6,ug/L
+Willow Creek at Highway 1,308WLO,Central Coast,"Lead, Total",Insufficient data,6/8/2016,0.04,ug/L
+Little Sur River @ Hwy 1,308LSR,Central Coast,"Lead, Total",Insufficient data,9/7/2016,0.06,ug/L
+Orcutt Creek at sand plant above Santa Maria River,312ORC,Central Coast,"Lead, Total",Insufficient data,12/12/2019,0.525,ug/L
+Big Creek at Highway 1,308BGC,Central Coast,"Lead, Total",Insufficient data,6/8/2016,0.015,ug/L
+Oso Flaco Creek at Oso Flaco Lake Road,312OFC,Central Coast,"Lead, Total",Insufficient data,12/12/2019,0.73,ug/L
+San Luis Rey River at Benet Road Bridge,903SLRRBB,San Diego,"Lead, Total",Insufficient data,6/10/2020,11.1,mg/Kg dw
+Coachella Valley Stormchannel (Ave 52),719CVSC52,Colorado River,"Lead, Total",Insufficient data,10/12/2011,19.8,mg/Kg dw
+New R at Drew Road near Seeley,723NRDRWR,Colorado River,"Lead, Total",Insufficient data,11/14/2018,11,mg/Kg dw
+Alamo River at Drop 10 Central Drain,723ARDP10,Colorado River,"Lead, Total",Insufficient data,11/13/2018,12.4,mg/Kg dw
+Alamo River at Drop 6A Holtville Drain,723ARDP6A,Colorado River,"Lead, Total",Insufficient data,10/6/2010,12.7,mg/Kg dw
+New River at Drop 2,723NRDP02,Colorado River,"Lead, Total",Insufficient data,11/14/2018,15,mg/Kg dw
+Colorado River at Nevada State Line,713CRNVBD,Colorado River,"Lead, Total",Insufficient data,11/12/2018,10.1,mg/Kg dw
+Colorado River at Parker Dam,715CRPDDM,Colorado River,"Lead, Total",Insufficient data,11/12/2018,18.6,mg/Kg dw
+Reservation Main Drain 4,727CRRMD4,Colorado River,"Lead, Total",Insufficient data,1/6/2020,10.7,mg/Kg dw
+Jalama Creek at County Park at RR trussels,315JAL,Central Coast,"Lead, Total",Insufficient data,1/16/2020,0.045,ug/L
+Rowdy Creek at South Fred Haight Drive,103RW1599,North Coast,"Lead, Total",Insufficient data,6/23/2015,4.223,ug/L
+"Mammoth Cr, at HWY 395",603MAM006,Lahontan,"Lead, Total",Insufficient data,7/21/2005,0.37,ug/L
+"East Walker River, at CA/NV state line",630EWK001,Lahontan,"Lead, Total",Insufficient data,6/28/2002,1,ug/L
+West Fork Carson River at Paynesville Bridge,633WFCB02,Lahontan,"Lead, Total",Insufficient data,5/10/2018,5,ug/L
+San Joaquin River at Lander Avenue,541MER522,Central Valley,"Lead, Total",Insufficient data,8/27/2020,11.4,mg/Kg dw
+SJR @ Crows Landing,535STC504,Central Valley,"Lead, Total",Insufficient data,8/25/2020,15.4,mg/Kg dw
+San Joaquin River at Airport Way near Vernalis,541SJC501,Central Valley,"Lead, Total",Insufficient data,8/25/2020,11.6,mg/Kg dw
+Pleasant Grove Creek Sediment #8,519SED008,Central Valley,"Lead, Total",Insufficient data,8/13/2020,10.7,mg/Kg dw
+Mokelumne River at New Hope Road,544SAC002,Central Valley,"Lead, Total",Insufficient data,9/3/2020,11.3,mg/Kg dw
+Arroyo Seco River @ Elm St,309SEC,Central Coast,"Lead, Total",Insufficient data,6/28/2018,0.1,ug/L
+Cosumnes River at Twin Cities Road,531SAC001,Central Valley,"Lead, Total",Insufficient data,9/3/2020,24.8,mg/Kg dw
+Tillas Slough at Westbrook Road,103TL2903,North Coast,"Lead, Total",Insufficient data,6/23/2015,3.83,ug/L
+Ferguson Lake,715TF0091,Colorado River,"Lead, Total",Insufficient data,10/2/2002,19.2,mg/Kg dw
+Lake Havasu_BOG,714PLH216,Colorado River,"Lead, Total",Insufficient data,10/30/2002,25.5,mg/Kg dw
+El Capitan Creek below Highway 101,315CAP,Central Coast,"Lead, Total",Insufficient data,1/16/2020,0.045,ug/L
+Dos Pueblos Canyon Creek at Highway 101,315DOS,Central Coast,"Lead, Total",Insufficient data,1/16/2020,0.045,ug/L
+Santa Ynez River at Floradale Rd,314SYF,Central Coast,"Lead, Total",Insufficient data,1/21/2020,0.19,ug/L
+Salsipuedes Creek @ Santa Rosa Rd,314SAL,Central Coast,"Lead, Total",Insufficient data,1/21/2020,0.045,ug/L
+Canada del Refugio above Highway 101,315RSB,Central Coast,"Lead, Total",Insufficient data,1/16/2020,0.045,ug/L
+Canada de la Gaviota at Highway 1,315GAI,Central Coast,"Lead, Total",Insufficient data,1/16/2020,0.045,ug/L
+Santa Ynez River at Highway 101,314SYI,Central Coast,"Lead, Total",Insufficient data,1/21/2020,0.045,ug/L
+Glenn Annie Creek at Los Carneros Road,315ANN,Central Coast,"Lead, Total",Insufficient data,1/14/2020,0.045,ug/L
+Santa Monica Creek @ Carpinteria Avenue,315SMC,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+Tecolote Creek @ Bacara Resort access Road,315TCI,Central Coast,"Lead, Total",Insufficient data,1/16/2020,0.045,ug/L
+Bell Ck on Bacara Resort Access Road,315BEL,Central Coast,"Lead, Total",Insufficient data,1/16/2020,0.045,ug/L
+Arroyo Paredon Creek at Via Real,315APC,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.52,ug/L
+Ulatis Creek at Brown Road,511ULCABR,Central Valley,"Lead, Total",Insufficient data,9/3/2020,12.8,mg/Kg dw
+Romero Creek @ Jamison Lane,315ROM,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+Downriver_2_Riverside Water Quality Control Plant,Downriver_2_RWQCP,Santa Ana,"Lead, Total",Insufficient data,7/8/2020,5,ug/L
+Upriver_1,Upriver_1,Santa Ana,"Lead, Total",Insufficient data,7/8/2020,0.27,ug/L
+Butte Slough @ Meridian,520BUTEMR,Central Valley,"Lead, Total",Insufficient data,8/19/2008,8.6,mg/Kg dw
+Butte Creek below Western Canal Siphon,520BUT902,Central Valley,"Lead, Total",Insufficient data,3/12/2020,0.5,ug/L
+Pit @ Pittville Bridge,526P00008,Central Valley,"Lead, Total",Insufficient data,6/30/2008,9.935,mg/Kg dw
+Santa Ynez River at Paradise Road,314SYP,Central Coast,"Lead, Total",Insufficient data,1/21/2020,0.045,ug/L
+Santa Ynez River d/s Lake Cachuma at Highway 154,314SYC,Central Coast,"Lead, Total",Insufficient data,1/21/2020,0.17,ug/L
+Pilarcitos Creek 180m d/s of Hwy 1,202PIL050,San Francisco Bay,"Lead, Total",Insufficient data,8/22/2019,6.82,mg/Kg dw
+Dry Creek at Durham Pentz Highway,521BUT209,Central Valley,"Lead, Total",Insufficient data,11/13/2019,0.25,ug/L
+Little Butte Creek at Butte Island Bridge,521BUT203,Central Valley,"Lead, Total",Insufficient data,3/12/2020,7.22,ug/L
+Clear Creek at Durham Pentz Highway,520BUT208,Central Valley,"Lead, Total",Insufficient data,11/13/2019,0.25,ug/L
+Butte Creek at Helltown Road,521BUT202,Central Valley,"Lead, Total",Insufficient data,3/12/2020,2.45,ug/L
+Butte Creek at USGS Gage near Chico (BCGGE),520BUT201,Central Valley,"Lead, Total",Insufficient data,3/12/2020,2.45,ug/L
+Hamlin Creek at Paradise,521BUT204,Central Valley,"Lead, Total",Insufficient data,11/13/2019,0.25,ug/L
+Arroyo de la Cruz at Highway 1,310ADC,Central Coast,"Lead, Total",Insufficient data,6/8/2016,0.015,ug/L
+Atascadero Creek @ Patterson Avenue,315ATU,Central Coast,"Lead, Total",Insufficient data,1/14/2020,0.045,ug/L
+Mission Creek at Foothill Road,315MIU,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+Montecito Creek at Jamison Lane,315MTC,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+Carpinteria Creek at 8th Street foot bridge,315CRP,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+Sycamore Creek at Punta Gorda,315SCC,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+Carpinteria Creek at Highway 192,315CAU,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+Little Dry Creek at Durham Pentz Highway,520BUT207,Central Valley,"Lead, Total",Insufficient data,5/15/2019,95.5,ug/L
+T Drain Tributary at Beal and wister road,723STTDRN,Colorado River,"Lead, Total",Insufficient data,1/14/2020,18.6,mg/Kg dw
+R Drain Tributary at Alcott and wister road,723STRDRN,Colorado River,"Lead, Total",Insufficient data,1/14/2020,17.1,mg/Kg dw
+S Drain Tributary at Noffsinger and wister road,723STSDRN,Colorado River,"Lead, Total",Insufficient data,1/14/2020,20.2,mg/Kg dw
+Q Drain Tributary at Pound and wister road,723STQDRN,Colorado River,"Lead, Total",Insufficient data,1/14/2020,16.3,mg/Kg dw
+P Drain Tributary at Hazard and wister road,723STPDRN,Colorado River,"Lead, Total",Insufficient data,1/14/2020,12.3,mg/Kg dw
+San Ysidro Creek @ Jamison Lane,315YSI,Central Coast,"Lead, Total",Insufficient data,1/13/2020,0.045,ug/L
+O Drain Tributary off MCDonald rd. ,723STODRN,Colorado River,"Lead, Total",Insufficient data,1/9/2020,17,mg/Kg dw
+Lateral 3 Drain Tributary off Garst road,723STLD03,Colorado River,"Lead, Total",Insufficient data,1/9/2020,19,mg/Kg dw
+Lateral 4A Drain Tributary off Gentry road,723STLD4A,Colorado River,"Lead, Total",Insufficient data,1/9/2020,17.6,mg/Kg dw
+K Drain Tributary at Boyle and Sinclair road,723STKDRN,Colorado River,"Lead, Total",Insufficient data,1/8/2020,15.4,mg/Kg dw
+Vail Drain Near Young,723IPYG46,Colorado River,"Lead, Total",Insufficient data,1/8/2020,14.8,mg/Kg dw
+Lateral 5 Drain Tributary terminus McKendry and Severe road,723STLD05,Colorado River,"Lead, Total",Insufficient data,1/8/2020,13.8,mg/Kg dw
+Lateral 12_Drain Tributary terminus of Bruchard road,723STLD12,Colorado River,"Lead, Total",Insufficient data,1/8/2020,14.6,mg/Kg dw
+Lateral Unknown Drain 1 Tributary corner of West Lindsey and Lack road,723STUD01,Colorado River,"Lead, Total",Insufficient data,1/8/2020,17.2,mg/Kg dw
+Lateral 5A Drain Tributary at Grubel and Grummer road,723STLD5A,Colorado River,"Lead, Total",Insufficient data,1/8/2020,36.3,mg/Kg dw
+Lateral 8_Drain Tributary terminus Grubel and Lack road,723STLD08,Colorado River,"Lead, Total",Insufficient data,1/8/2020,15.2,mg/Kg dw
+Lateral 17_Drain Tributary near terminus of Poe road,723STLD17,Colorado River,"Lead, Total",Insufficient data,1/7/2020,9.81,mg/Kg dw
+Lateral 15_Drain Tributary terminus of Vendel road,723STLD15,Colorado River,"Lead, Total",Insufficient data,1/7/2020,15.8,mg/Kg dw
+Salton Sea Drain S3 (Trifolium TD1),723SSDS03,Colorado River,"Lead, Total",Insufficient data,1/7/2020,10.4,mg/Kg dw
+Lateral 13_Drain Tributary terminus of Baker road,723STLD13,Colorado River,"Lead, Total",Insufficient data,1/7/2020,13.6,mg/Kg dw
+Lateral 14_Drain Tributary at Baker and Vendel road,723STLD14,Colorado River,"Lead, Total",Insufficient data,1/7/2020,23.7,mg/Kg dw
+Lateral Unknown Drain 5 Tributary near West Howenstein Rd,723STUD05,Colorado River,"Lead, Total",Insufficient data,1/7/2020,15.8,mg/Kg dw
+Orcutt Creek at Brown Road,312GVT,Central Coast,"Lead, Total",Insufficient data,12/12/2019,0.22,ug/L
+Orcutt Solomon Creek at Black Road,312ORB,Central Coast,"Lead, Total",Insufficient data,12/12/2019,0.045,ug/L
+Oso Flaco Lake @ culvert,312OFL,Central Coast,"Lead, Total",Insufficient data,12/12/2019,0.12,ug/L
+Orcutt Creek @ Solomon Rd,312ORS,Central Coast,"Lead, Total",Insufficient data,12/12/2019,0.69,ug/L
+Huasna River at School Road,312HUA,Central Coast,"Lead, Total",Insufficient data,12/4/2019,0.045,ug/L
+Cuyama River at Highway 33,312CAV,Central Coast,"Lead, Total",Insufficient data,12/4/2019,3.52,ug/L
+Main Street Canal at daylight point,312MSS,Central Coast,"Lead, Total",Insufficient data,12/4/2019,13.3,ug/L
+Bradley Channel above ponds at Magellan Drive,312BCU,Central Coast,"Lead, Total",Insufficient data,12/4/2019,6.6,ug/L
+Cuyama River below Twitchell @ White Rock Lane,312CUT,Central Coast,"Lead, Total",Insufficient data,12/4/2019,0.045,ug/L
+Cuyama River below Cottonwood Canyon,312CCC,Central Coast,"Lead, Total",Insufficient data,12/4/2019,0.03,ug/L
+Blosser Channel below groundwater recharge ponds,312BCD,Central Coast,"Lead, Total",Insufficient data,12/4/2019,2.75,ug/L
+Nipomo Creek at Highway 166,312NIP,Central Coast,"Lead, Total",Insufficient data,12/4/2019,0.95,ug/L
+Nipomo Creek at Tefft Street,312NIT,Central Coast,"Lead, Total",Insufficient data,12/4/2019,0.45,ug/L
+Santa Maria River at Bull Canyon Road,312SBC,Central Coast,"Lead, Total",Insufficient data,6/11/2019,3.72,ug/L
+Cuyama River downstream Buckhorn Rd,312CUY,Central Coast,"Lead, Total",Insufficient data,6/18/2019,0.045,ug/L
+Belleville/Barranca,205STE060,San Francisco Bay,"Lead, Total",Insufficient data,8/28/2019,9.62,mg/Kg dw
+Charleston Rd,205PER010,San Francisco Bay,"Lead, Total",Insufficient data,8/28/2019,38.5,mg/Kg dw
+Permanente Creek at Heritage Oak Park,205PER045,San Francisco Bay,"Lead, Total",Insufficient data,8/28/2019,11.3,mg/Kg dw
+Arroyo Leon at Colonel Way,202ALN150,San Francisco Bay,"Lead, Total",Insufficient data,8/22/2019,8.54,mg/Kg dw
+Pilarcitos Creek between Corinda Los Trancos and Apanolio Creek,202PIL200,San Francisco Bay,"Lead, Total",Insufficient data,8/21/2019,10.7,mg/Kg dw
+Pilarcitos Creek ~600ft u/s of xmas tree farm gate,202PIL400,San Francisco Bay,"Lead, Total",Insufficient data,8/21/2019,8.46,mg/Kg dw
+Garcia River below Mill Creek,113GAR105,North Coast,"Lead, Total",Insufficient data,6/20/2011,0.015,ug/L
+Fisher Creek 100 m u/s of railroad xing,205FSH050,San Francisco Bay,"Lead, Total",Insufficient data,8/20/2019,12.75,mg/Kg dw
+Coyote Creek 400m u/s of Silicon Valley Blvd,205COY364,San Francisco Bay,"Lead, Total",Insufficient data,8/20/2019,11,mg/Kg dw
+Inman Creek above Garcia River,113GAR023,North Coast,"Lead, Total",Insufficient data,8/5/2013,0.015,ug/L
+Blue Waterhole Creek above Garcia River,113GAR112,North Coast,"Lead, Total",Insufficient data,8/5/2013,0.037,ug/L
+Coyote Cr d/s of  Burnette Ave,205COY450,San Francisco Bay,"Lead, Total",Insufficient data,8/19/2019,8.8,mg/Kg dw
+Coyote Creek ~1.1mi below Hwy 101,205COY442,San Francisco Bay,"Lead, Total",Insufficient data,8/19/2019,15.9,mg/Kg dw
+Eel River - M Fork at Dos Rios,111MF0034,North Coast,"Lead, Total",Insufficient data,7/19/2010,0.015,ug/L
+Eel River above Dos Rios,111ER6140,North Coast,"Lead, Total",Insufficient data,7/19/2010,0.015,ug/L
+Russian River above Hopland,114RR7396,North Coast,"Lead, Total",Insufficient data,12/20/2017,0.08,ug/L
+Russian River at Syar Pond,114RR2678,North Coast,"Lead, Total",Insufficient data,11/29/2011,0.015,ug/L
+Signal Creek at Big Cheese Road,113GAR178,North Coast,"Lead, Total",Insufficient data,9/9/2013,0.015,ug/L
+Garcia River at SF Garcia at Eagles Bend,113GAR030,North Coast,"Lead, Total",Insufficient data,8/28/2012,0.015,ug/L
+Russian River at Alexander Valley Road,114RR4234,North Coast,"Lead, Total",Insufficient data,6/25/2001,50,ug/L
+Russian River at Odd Fellows Crossing,114RR1644,North Coast,"Lead, Total",Insufficient data,12/1/2011,0.07,ug/L
+Sisquoc River at Tepusquet Rd. bridge,312TEP,Central Coast,"Lead, Total",Insufficient data,6/11/2019,0.045,ug/L
+Amargosa River at Upper Canyon,609AMR002,Lahontan,"Lead, Total",Insufficient data,3/15/2005,9.705,ug/L
+Metcalf Creek Random Olsen Site 100,801MFC100,Santa Ana,"Lead, Total",Insufficient data,7/8/2015,0.05,ug/L
+Amargosa River below Willow Cr,609AMR001,Lahontan,"Lead, Total",Insufficient data,3/16/2005,14.3,mg/Kg dw
+La Avenida,205STE020,San Francisco Bay,"Lead, Total",Insufficient data,1/23/2003,0.165,ug/L
+Crittendon Middle School,205PER020,San Francisco Bay,"Lead, Total",Insufficient data,5/11/2016,27.9,mg/Kg dw
+Chestnut Picnic Area,205STE070,San Francisco Bay,"Lead, Total",Insufficient data,5/11/2016,12.5,mg/Kg dw
+Coon Creek at Pecho Valley Road,310COO,Central Coast,"Lead, Total",Insufficient data,11/5/2015,0.05,ug/L
+La Honda at Confluence,202SGR080,San Francisco Bay,"Lead, Total",Insufficient data,1/22/2003,0.056,ug/L
+Downriver,Downriver,Santa Ana,"Lead, Total",Insufficient data,1/9/2019,0.25,ug/L
+Lateral Unknown Drain 3 Tributary 0.9 miles west of Lack Rd,723STUD03,Colorado River,"Lead, Total",Insufficient data,4/9/2019,13.1,mg/Kg dw
+Lateral Unknown Drain 2 Tributary 0.5 miles west of Lack Rd,723STUD02,Colorado River,"Lead, Total",Insufficient data,4/9/2019,10.2,mg/Kg dw
+Lateral Unknown Drain 4 Tributary at Vail & W. Bowles,723STUD04,Colorado River,"Lead, Total",Insufficient data,4/9/2019,13.7,mg/Kg dw
+Lake Oroville West Branch Arm at Lime Saddle Marina,518BUT210,Central Valley,"Lead, Total",Insufficient data,2/26/2019,6.51,ug/L
+Piner Creek at Marlow Rd,114PI5786,North Coast,"Lead, Total",Insufficient data,11/15/2017,10.085,ug/L
+Mark West Creek at Leslie Rd,114MW6173,North Coast,"Lead, Total",Insufficient data,11/16/2017,1.615,ug/L
+Mark West Creek at Fulton Road,114MW3807,North Coast,"Lead, Total",Insufficient data,11/16/2017,0.675,ug/L
+Atascadero Creek Highway 41,309ATS,Central Coast,"Lead, Total",Insufficient data,6/19/2018,0.1,ug/L
+Salinas River At Bradley Bridge,309USA,Central Coast,"Lead, Total",Insufficient data,6/26/2018,0.1,ug/L
+Salinas River @ Hwy 101 in King City,309KNG,Central Coast,"Lead, Total",Insufficient data,12/18/2018,0.035,ug/L
+Salinas River Cattlemen Road near San Ardo,309DSA,Central Coast,"Lead, Total",Insufficient data,12/18/2018,0.035,ug/L
+Nacimiento River at Highway 101,309NAC,Central Coast,"Lead, Total",Insufficient data,12/18/2018,0.035,ug/L
+San Antonio River @ Hwy 101,309SAN,Central Coast,"Lead, Total",Insufficient data,12/18/2018,0.035,ug/L
+Salinas River @ Hwy 1,309SBR,Central Coast,"Lead, Total",Insufficient data,12/11/2018,0.05,ug/L
+Watsonville Creek @ Elkhorn Rd,306WAC,Central Coast,"Lead, Total",Insufficient data,12/11/2018,0.04,ug/L
+Tembladero Slough @ Preston Rd,309TEM,Central Coast,"Lead, Total",Insufficient data,12/4/2018,10.7,ug/L
+Salinas Reclamation Canal @ Boranda Rd,309ALD,Central Coast,"Lead, Total",Insufficient data,12/4/2018,6.275,ug/L
+Salinas Reclamation Canal at Airport Rd,309ALU,Central Coast,"Lead, Total",Insufficient data,12/4/2018,5.59,ug/L
+Santa Rita Creek @ Santa Rita Creek Park,309RTA,Central Coast,"Lead, Total",Insufficient data,12/4/2018,1.555,ug/L
+Salinas Storm Drain upstream Davis Rd,309SDR,Central Coast,"Lead, Total",Insufficient data,12/4/2018,0.13,ug/L
+Gabilan Creek @ Independence Rd and East Boranda Rd,309GAB,Central Coast,"Lead, Total",Insufficient data,12/4/2018,3.33,ug/L
+Alamo River at Drop 3,723ARDP03,Colorado River,"Lead, Total",Insufficient data,11/15/2018,14,mg/Kg dw
+Alamo River at Drop 6 Rose Drain,723ARDP06,Colorado River,"Lead, Total",Insufficient data,11/14/2018,14.3,mg/Kg dw
+New River at Fig Drain,723NRFGDN,Colorado River,"Lead, Total",Insufficient data,11/14/2018,12.2,mg/Kg dw
+New River at Greeson Drain,723NRGNDN,Colorado River,"Lead, Total",Insufficient data,11/14/2018,13.6,mg/Kg dw
+Alamo River at Drop 8,723ARDP08,Colorado River,"Lead, Total",Insufficient data,11/14/2018,15.6,mg/Kg dw
+New River at Hw 111,723NRH111,Colorado River,"Lead, Total",Insufficient data,11/14/2018,16.3,mg/Kg dw
+New River at Rice Drain #3,723NRRCD3,Colorado River,"Lead, Total",Insufficient data,11/13/2018,12.5,mg/Kg dw
+New River at Evan Hughes Hwy,723NREVHU,Colorado River,"Lead, Total",Insufficient data,11/13/2018,14.9,mg/Kg dw
+Colorado River u/s Imperial Dam,715CRIDU1,Colorado River,"Lead, Total",Insufficient data,11/13/2018,15.4,mg/Kg dw
+Palo Verde Diversion Dam,715CRPVDD,Colorado River,"Lead, Total",Insufficient data,11/12/2018,10.1,mg/Kg dw
+Salinas River Elm Road in Greenfield,309GRN,Central Coast,"Lead, Total",Insufficient data,6/28/2018,0.715,ug/L
+Salinas River at Chualar River Road,309SAC,Central Coast,"Lead, Total",Insufficient data,6/28/2018,1.31,ug/L
+North Fork Garcia above Bridge 9,113GAR244,North Coast,"Lead, Total",Insufficient data,6/28/2010,0.015,ug/L
+Garcia River above Signal Creek,113GAR015,North Coast,"Lead, Total",Insufficient data,9/9/2013,0.015,ug/L
+Shank Rd. Wetlands Sed Basin 1,723SHWLS1,Colorado River,"Lead, Total",Insufficient data,8/14/2018,16.267,mg/Kg dw
+Brawley Wetlan Sedimentation Basin,723BRWLSB,Colorado River,"Lead, Total",Insufficient data,8/13/2018,12.333,mg/Kg dw
+Imperial Wetlands Sed Basin,723IMWLSB,Colorado River,"Lead, Total",Insufficient data,8/13/2018,19.25,mg/Kg dw
+Imperial Wetlands Cell4,723IMWLC4,Colorado River,"Lead, Total",Insufficient data,10/18/2016,9.57,mg/Kg dw
+Garcia River at SF Garcia River,113GAR046,North Coast,"Lead, Total",Insufficient data,6/18/2012,0.015,ug/L
+South Fork Garcia River above Garcia River,113GAR110,North Coast,"Lead, Total",Insufficient data,6/18/2012,0.015,ug/L
+Rancho San Antonio,205PER070,San Francisco Bay,"Lead, Total",Insufficient data,5/11/2016,5.56,mg/Kg dw
+Salinas River at Highway 41,309SAT,Central Coast,"Lead, Total",Insufficient data,6/19/2018,0.1,ug/L
+San Gregorio USGS Gage,202SGR010,San Francisco Bay,"Lead, Total",Insufficient data,1/22/2003,0.056,ug/L
+West Fork Carson River downstream of impacted tributary confluence,633WFCR01,Lahontan,"Lead, Total",Insufficient data,5/10/2018,5,ug/L
+West Fork Carson River upstream of impacted tributary confluence,633WFCR02,Lahontan,"Lead, Total",Insufficient data,5/10/2018,5,ug/L
+Impacted tributary at culvert outfall on south side of Highway 88,633WFCT01,Lahontan,"Lead, Total",Insufficient data,5/10/2018,5,ug/L
+Santa Rosa Creek at Willowside Road-114SR0761,114SR0761,North Coast,"Lead, Total",Insufficient data,11/16/2017,6.1,ug/L
+"Petaluma River - Petaluma Village Premium Outlet Mall, just downstream of bridge leading into mall",206PET310,San Francisco Bay,"Lead, Total",Insufficient data,6/15/2016,6.835,mg/Kg dw
+Russian River at Lake Mendocino Drive,114RR8709,North Coast,"Lead, Total",Insufficient data,11/30/2011,0.033,ug/L
+Russian River at Vichy Springs Road,114RR8473,North Coast,"Lead, Total",Insufficient data,12/20/2017,0.135,ug/L
+Big Sulphur Creek at River Road,114BS0310,North Coast,"Lead, Total",Insufficient data,11/30/2011,0.015,ug/L
+Russian River above Cummiskey Creek,114RR6273_SWAMP,North Coast,"Lead, Total",Insufficient data,12/20/2017,0.03,ug/L
+Mark West Creek at Mirabel,114MW0020,North Coast,"Lead, Total",Insufficient data,12/20/2017,0.1,ug/L
+Aptos Creek at Nisene Marks Park Road,304APS,Central Coast,"Lead, Total",Insufficient data,12/19/2017,0.015,ug/L
+San Vicente Creek at the gate at the end of San Vicente Creek Road,304SVC,Central Coast,"Lead, Total",Insufficient data,12/19/2017,0.12,ug/L
+Soquel Creek at Soquel Creek Road,304SOU,Central Coast,"Lead, Total",Insufficient data,12/19/2017,0.015,ug/L
+Valencia Creek upstream Aptos Creek Confluence,304VAL,Central Coast,"Lead, Total",Insufficient data,12/19/2017,0.05,ug/L
+Scott Creek upstream Big Creek residences,304SCM,Central Coast,"Lead, Total",Insufficient data,12/19/2017,0.02,ug/L
+San Benito at Y Road,305SAN,Central Coast,"Lead, Total",Insufficient data,12/12/2017,0.08,ug/L
+Pajaro River at Porter/Main,305PJP,Central Coast,"Lead, Total",Insufficient data,12/12/2017,0.11,ug/L
+Pajaro River at Murphy's Crossing,305MUR,Central Coast,"Lead, Total",Insufficient data,12/12/2017,0.07,ug/L
+Salsipuedes Creek downstream of Corralitos Creek,305COR,Central Coast,"Lead, Total",Insufficient data,12/12/2017,0.29,ug/L
+"San Benito River, Bridge downstream Willow Creek",305BRI,Central Coast,"Lead, Total",Insufficient data,12/12/2017,0.11,ug/L
+San Juan Creek at Anzar Rd for RWB3 Site,305SJN,Central Coast,"Lead, Total",Insufficient data,12/12/2017,0.355,ug/L
+Pajaro River at Chittenden Gap,305CHI,Central Coast,"Lead, Total",Insufficient data,12/12/2017,0.2,ug/L
+Corralitos Creek at Brown Valley Road,305COR2,Central Coast,"Lead, Total",Insufficient data,12/12/2017,0.03,ug/L
+Pajaro River at Frazier Lake Road,305FRA,Central Coast,"Lead, Total",Insufficient data,9/7/2017,1.78,ug/L
+Pacheco Creek at San Felipe Road,305PAC,Central Coast,"Lead, Total",Insufficient data,3/2/2017,0.1,ug/L
+Llagas Creek at Bloomfield Avenue,305LLA,Central Coast,"Lead, Total",Insufficient data,12/5/2017,0.06,ug/L
+Furlong Creek at Frazier Lake Road,305FUF,Central Coast,"Lead, Total",Insufficient data,12/5/2017,0.44,ug/L
+Pajaro River at Betabel Road,305PAJ,Central Coast,"Lead, Total",Insufficient data,12/5/2017,0.36,ug/L
+Uvas Creek at Bloomfield Avenue,305UVA,Central Coast,"Lead, Total",Insufficient data,12/5/2017,0.42,ug/L
+Watsonville Slough upstream Harkins Slough,305WSA,Central Coast,"Lead, Total",Insufficient data,9/7/2017,0.02,ug/L
+San Lorenzo River at Highway 9,304SL9,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.1,ug/L
+San Lorenzo Upstream Bear Creek,304SLE,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.09,ug/L
+Zayante Creek at Graham Hill Road,304ZAY,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.095,ug/L
+San Lorenzo River at Crossing Street,304RIV,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.05,ug/L
+San Lorenzo River at Big Trees Road,304SLB,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.09,ug/L
+Branciforte Creek at Water Street,304BRA,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.12,ug/L
+Bear Creek at Elks Park,304BEP,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.13,ug/L
+Boulder Creek at Highway 9,304BH9,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.13,ug/L
+Arana Gulch at Harbor High School,304ARA,Central Coast,"Lead, Total",Insufficient data,11/28/2017,0.2,ug/L
+Mark West Creek at Fulton Rd off Airport Blvd,114MW3972,North Coast,"Lead, Total",Insufficient data,11/16/2017,2.5,ug/L
+Tuolumne River at Shiloh Fishing Access,535STC513,Central Valley,"Lead, Total",Insufficient data,11/20/2002,2.5,ug/L
+San Joaquin River above Maze Boulevard,541STC510,Central Valley,"Lead, Total",Insufficient data,11/21/2002,2.5,ug/L
+Stanislaus River at Caswell Park,535STC514,Central Valley,"Lead, Total",Insufficient data,11/20/2002,2.5,ug/L
+SJR @ Patterson,541STC507,Central Valley,"Lead, Total",Insufficient data,11/21/2002,2.5,ug/L
+N. Fork Mokelumne River @ Hwy 26,532AMA001,Central Valley,"Lead, Total",Insufficient data,6/26/2002,2.5,ug/L
+Mokelumne River @ Van Assen Co. Park,531SJC512,Central Valley,"Lead, Total",Insufficient data,6/24/2002,2.5,ug/L
+Mokelumne River @ Hwy 49,532CAL004,Central Valley,"Lead, Total",Insufficient data,7/22/2008,19.7,mg/Kg dw
+Eel River - South Fork at Myers Flat,111SF0933,North Coast,"Lead, Total",Insufficient data,10/12/2015,5.47,mg/Kg dw
+Smith River at Sarina Road,103SM1009,North Coast,"Lead, Total",Insufficient data,10/13/2015,6.02,mg/Kg dw
+"Mammoth Cr, at Twin Lakes",603MAM008,Lahontan,"Lead, Total",Insufficient data,7/21/2005,0.03,ug/L
+Pit River at Cassel-Fall River Road,526PRFALR,Central Valley,"Lead, Total",Insufficient data,8/9/2017,8.05,mg/Kg dw
+Napa Creek at Jefferson St,206NAC100,San Francisco Bay,"Lead, Total",Insufficient data,8/7/2017,12.6,mg/Kg dw
+Suscol Creek 250m US of Suscol Ferry Rd xing,206SUS010,San Francisco Bay,"Lead, Total",Insufficient data,8/7/2017,7.6,mg/Kg dw
+Garcia River downstream of Rolling Brook Creek,113GAR061,North Coast,"Lead, Total",Insufficient data,6/19/2012,0.043,ug/L
+Napa River at Trancas,206NAP030,San Francisco Bay,"Lead, Total",Insufficient data,7/17/2017,7.76,mg/Kg dw
+Napa River  500m DS of Oakville Cross Rd,206NAP100,San Francisco Bay,"Lead, Total",Insufficient data,7/17/2017,6.27,mg/Kg dw
+Cosumnes River @ Gold Beach Park,532ELD003,Central Valley,"Lead, Total",Insufficient data,6/25/2002,2.5,ug/L
+Lagunitas Creek @ Coast Guard Station,201LAG125,San Francisco Bay,"Lead, Total",Insufficient data,6/28/2017,8.83,mg/Kg dw
+Stevens Creek - 205STE025 directly upstream of pedestrian bridge at Whisman School Park,205STE025,San Francisco Bay,"Lead, Total",Insufficient data,5/11/2016,11.1,mg/Kg dw
+Cosumnes River @ Hwy 49,532ELD004,Central Valley,"Lead, Total",Insufficient data,6/25/2002,2.5,ug/L
+Santa Ana River Random Olsen Site 312,801RB8312,Santa Ana,"Lead, Total",Insufficient data,6/27/2017,0.3,ug/L
+Prado Flood Control Basin Random Olsen Site 019,801PFB019,Santa Ana,"Lead, Total",Insufficient data,6/27/2017,0.3,ug/L
+Tuolumne R. @ Old LaGrange Bridge,535STC210,Central Valley,"Lead, Total",Insufficient data,8/16/2016,13.3,mg/Kg dw
+Lost Lake Depressional Wetland Site 0001,801LL0001,Santa Ana,"Lead, Total",Insufficient data,6/25/2017,33.45,mg/Kg dw
+Shady Canyon Depressional Wetland Site 0002,801SC0002,Santa Ana,"Lead, Total",Insufficient data,6/24/2017,12.4,mg/Kg dw
+Santa Ana River Random Olsen Site 151,801SAR151,Santa Ana,"Lead, Total",Insufficient data,6/22/2017,0.2,ug/L
+Santa Ana Restoration Site,801SAROCR,Santa Ana,"Lead, Total",Insufficient data,6/21/2017,0.4,ug/L
+Santa Ana River Random Olsen Site 494,801RB8494,Santa Ana,"Lead, Total",Insufficient data,6/24/2013,0.3,ug/L
+Tres Pinos Creek @ Southside Rd,305TRE,Central Coast,"Lead, Total",Insufficient data,3/9/2017,0.06,ug/L
+Elkhorn Slough @ Kirby Park,306ELK,Central Coast,"Lead, Total",Insufficient data,8/23/2016,15.9,mg/Kg dw
+Mill Creek above Redwood Creek,113GAR089,North Coast,"Lead, Total",Insufficient data,6/20/2011,0.015,ug/L
+Channel Islands Harbor CI5,410CHN005,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,55.63,mg/Kg dw
+Channel Islands Harbor CI4,410CHN004,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,11.853,mg/Kg dw
+Ventura Harbor V4,407VNT004,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,22.477,mg/Kg dw
+Ventura Marina 1,407VHVTR1,Los Angeles,"Lead, Total",Insufficient data,10/2/2006,11.27,ug/L
+Ventura Marina 2,407VHVTR2,Los Angeles,"Lead, Total",Insufficient data,10/2/2006,16.9,mg/Kg dw
+Ventura Marina 3,407VHVTR3,Los Angeles,"Lead, Total",Insufficient data,10/2/2006,17.1,mg/Kg dw
+Ventura Harbor V5,407VNT005,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,20.78,mg/Kg dw
+Channel Islands Harbor CI1,410CHN001,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,21.827,mg/Kg dw
+Ventura Harbor V2,407VNT002,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,23.141,mg/Kg dw
+Ventura Harbor V1,407VNT001,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,24.889,mg/Kg dw
+Channel Islands Harbor CI2,410CHN002,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,17.797,mg/Kg dw
+Channel Islands Harbor CI3,410CHN003,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,24.783,mg/Kg dw
+Ventura Harbor V3,407VNT003,Los Angeles,"Lead, Total",Insufficient data,5/24/2017,23.899,mg/Kg dw
+Los Angeles Harbor LA2,411LAH002,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,61.859,mg/Kg dw
+Los Angeles Harbor LA4,411LAH004,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,56.466,mg/Kg dw
+King Harbor KH5,404KNG005,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,91.496,mg/Kg dw
+Los Angeles Harbor LA1,411LAH001,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,48.804,mg/Kg dw
+Los Angeles Harbor LA3,411LAH003,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,83.32,mg/Kg dw
+King Harbor KH2,404KNG002,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,28.147,mg/Kg dw
+King Harbor KH3,404KNG003,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,49.867,mg/Kg dw
+King Harbor KH4,404KNG004,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,71.224,mg/Kg dw
+King Harbor KH1,404KNG001,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,12.537,mg/Kg dw
+Long Beach Harbor LB5,411LBH005,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,157.795,mg/Kg dw
+Los Angeles Harbor LA5,411LAH005,Los Angeles,"Lead, Total",Insufficient data,5/23/2017,84.654,mg/Kg dw
+Alamitos Harbor A4,405ALM004,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,57.172,mg/Kg dw
+Long Beach Harbor LB4,412LBH004,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,65.899,mg/Kg dw
+Long Beach Harbor LB3,412LBH003,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,50.669,mg/Kg dw
+Alamitos Harbor A5,405ALM005,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,54.5,mg/Kg dw
+Long Beach Harbor LB2,412LBH002,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,166.398,mg/Kg dw
+Alamitos Harbor A3,405ALM003,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,73.801,mg/Kg dw
+Alamitos Harbor A2,405ALM002,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,41.823,mg/Kg dw
+Alamitos Harbor A1,405ALM001,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,46.009,mg/Kg dw
+Long Beach Harbor LB1,412LBH001,Los Angeles,"Lead, Total",Insufficient data,5/22/2017,173.704,mg/Kg dw
+Llagas Creek at Leavesley Road,305LEA,Central Coast,"Lead, Total",Insufficient data,4/6/2017,0.11,ug/L
+"310SSWWIN-Tributary to San Simeon Creek, downstream of Lower Cambria Mine",310SSWWIN,Central Coast,"Lead, Total",Insufficient data,4/28/2017,5.21,mg/Kg dw
+San Simeon Creek at Boot Ranch second SSC Road bridge,310SSWBOT,Central Coast,"Lead, Total",Insufficient data,4/28/2017,5.64,mg/Kg dw
+310SRWCRT- Curti Creek above Santa Rosa Creek Road,310SRWCRT,Central Coast,"Lead, Total",Insufficient data,4/28/2017,3.49,mg/Kg dw
+Mark West Creek at Trenton Healdsburg Road,114MW0930_SWAMP,North Coast,"Lead, Total",Insufficient data,12/1/2011,0.067,ug/L
+Wister Wildlife Refuge Cell W11A,723WUW11A,Colorado River,"Lead, Total",Insufficient data,10/26/2016,19.4,mg/Kg dw
+Wister Wildlife Refuge Cell W12A,723WUW12A,Colorado River,"Lead, Total",Insufficient data,10/26/2016,15.5,mg/Kg dw
+Salton Sea Drain S2 (Niland 4),723SSDS02,Colorado River,"Lead, Total",Insufficient data,10/26/2016,15.2,mg/Kg dw
+Salton Sea Drain S1 (W Drain),728SSDS01,Colorado River,"Lead, Total",Insufficient data,10/26/2016,15.4,mg/Kg dw
+Shank Rd. Wetland Cell1,723SHWLC1,Colorado River,"Lead, Total",Insufficient data,10/18/2016,10.845,mg/Kg dw
+Brawley Wetland Cell1,723BRWLC1,Colorado River,"Lead, Total",Insufficient data,10/17/2016,9.96,ug/L
+"Salt Creek, Slough (TSMP)",725SCSLGH,Colorado River,"Lead, Total",Insufficient data,10/17/2016,11,mg/Kg dw
+Walker Creek-1.2km upstream of hwy 1 crossing,201WLK091,San Francisco Bay,"Lead, Total",Insufficient data,6/15/2016,4.75,mg/Kg dw
+Russian River at Monte Rio Beach,114RR0898,North Coast,"Lead, Total",Insufficient data,12/1/2011,0.015,ug/L
+Russian River at Vacation Beach,114RR1159,North Coast,"Lead, Total",Insufficient data,12/1/2011,0.015,ug/L
+Lower Owens River near mouth,603LOWSED,Lahontan,"Lead, Total",Insufficient data,9/13/2016,11.6,mg/Kg dw
+Santa Maria Estuary Lower near river mouth,312SME00L,Central Coast,"Lead, Total",Insufficient data,8/22/2016,3.547,mg/Kg dw
+Los Osos Creek Estuary below South Bay Blvd and Elfin Forest,310MDELFF,Central Coast,"Lead, Total",Insufficient data,8/22/2016,9.68,mg/Kg dw
+Santa Maria Estuary  upper,312SME00U,Central Coast,"Lead, Total",Insufficient data,8/22/2016,6.425,mg/Kg dw
+Chorro Creek Estuary below tidal influence,310MBCCSB,Central Coast,"Lead, Total",Insufficient data,8/22/2016,3.92,mg/Kg dw
+Carpinteria Marsh Franklin Creek Arm above foot bridge,315CRPFRC,Central Coast,"Lead, Total",Insufficient data,8/25/2016,15.1,mg/Kg dw
+Goleta Slough Atascadero Arm Below Ward Drive,315GOLWRD,Central Coast,"Lead, Total",Insufficient data,8/25/2016,16.7,mg/Kg dw
+Carpinteria Marsh North channel near Santa Clause Lane,315CRPNRR,Central Coast,"Lead, Total",Insufficient data,8/25/2016,22.2,mg/Kg dw
+Goleta Slough Tecolotito Arm at Highway brigde,315GOLTEC,Central Coast,"Lead, Total",Insufficient data,8/25/2016,15.5,mg/Kg dw
+Old Salinas River @ Potrero Rd,309POT,Central Coast,"Lead, Total",Insufficient data,8/24/2016,7.385,mg/Kg dw
+Old Salinas River @ Sandholdt Bridge,306SAS,Central Coast,"Lead, Total",Insufficient data,8/24/2016,16.7,mg/Kg dw
+"Pajaro River Estuary Lower, below confluence with Watsonville Slough",305PJE00L,Central Coast,"Lead, Total",Insufficient data,8/24/2016,7,mg/Kg dw
+Pajaro River Estuary upper near Trafton Road,305PJE00U,Central Coast,"Lead, Total",Insufficient data,8/24/2016,9.7,mg/Kg dw
+Salinas River Estuary Lower near Old Salinas River Flapgate,309SAL00L,Central Coast,"Lead, Total",Insufficient data,8/23/2016,4.328,mg/Kg dw
+Salinas River Estuary  Upper near RR bridge,309SAL00U,Central Coast,"Lead, Total",Insufficient data,8/23/2016,5.18,mg/Kg dw
+Elkhorn Slough Upper near RR tracks,306ELKERD,Central Coast,"Lead, Total",Insufficient data,8/23/2016,13.4,mg/Kg dw
+TID 5 Harding Drain @ Carpenter Road,535STC501,Central Valley,"Lead, Total",Insufficient data,8/17/2016,15.6,mg/Kg dw
+Garcia River below Signal Creek,113GAR042,North Coast,"Lead, Total",Insufficient data,9/10/2013,0.043,ug/L
+South Fork Kern River@Fay Ranch Road,554SKR010,Central Valley,"Lead, Total",Insufficient data,8/11/2016,11.8,mg/Kg dw
+Deep Creek above Warm Springs,628DEPSED,Lahontan,"Lead, Total",Insufficient data,8/10/2016,17.6,mg/Kg dw
+Russian River at Crocker Road,114RR5652,North Coast,"Lead, Total",Insufficient data,11/30/2011,0.015,ug/L
+San Luis Obispo Ck at Los Osos Valley Road,310SLV,Central Coast,"Lead, Total",Insufficient data,11/19/2015,0.19,ug/L
+San Antonio Creek - Just upstream of San Antonio Rd bridge crossing,206PET010,San Francisco Bay,"Lead, Total",Insufficient data,1/20/2003,0.094,ug/L
+Russian River at Johnson's Beach,114RR1325,North Coast,"Lead, Total",Insufficient data,12/1/2011,0.03,ug/L
+Lone Tree Creek at Austin Road,531SJC503,Central Valley,"Lead, Total",Insufficient data,11/20/2002,2.5,ug/L
+French Camp Slough at Airport Way,531SJC504,Central Valley,"Lead, Total",Insufficient data,11/19/2002,2.5,ug/L
+San Timoteo Wash Random Olsen Site 207,801RB8207,Santa Ana,"Lead, Total",Insufficient data,6/16/2016,0.3,ug/L
+Day Creek Random Olsen Site 598,801RB8598,Santa Ana,"Lead, Total",Insufficient data,6/14/2016,0.2,ug/L
+San Timoteo Wash Random Olsen Site 258,801STW258,Santa Ana,"Lead, Total",Insufficient data,6/9/2016,1.3,ug/L
+City Creek Random Olsen Site 398,801CYC398,Santa Ana,"Lead, Total",Insufficient data,6/9/2016,0.1,ug/L
+San Timoteo Wash Random Olsen Site 085,801STW085,Santa Ana,"Lead, Total",Insufficient data,6/8/2016,0.3,ug/L
+San Timoteo Canyon Random Olsen Site 567,801RB8567,Santa Ana,"Lead, Total",Insufficient data,6/8/2016,0.2,ug/L
+San Jacinto River - Reference Site,802SJCREF,Santa Ana,"Lead, Total",Insufficient data,5/20/2016,14.1,mg/Kg dw
+Stevens Creek  205STE050 20m downstream of Fremont Blvd road xing,205STE050,San Francisco Bay,"Lead, Total",Insufficient data,5/11/2016,18.6,mg/Kg dw
+Stevens Creek - 205STE063 downstream of the Blackberry Golf Course and Stevens Creek Blvd.,205STE063,San Francisco Bay,"Lead, Total",Insufficient data,5/11/2016,13.7,mg/Kg dw
+Stevens Creek within McClellan Ranch Preserve and downstream of Mcllenan Rd,205STE066,San Francisco Bay,"Lead, Total",Insufficient data,5/11/2016,12.05,mg/Kg dw
+Upriver_2,Upriver_2,Santa Ana,"Lead, Total",Insufficient data,5/4/2016,0.5,ug/L
+Santa Rosa Creek at Ferrassi Road,310SRU,Central Coast,"Lead, Total",Insufficient data,9/9/2015,0.015,ug/L
+Salton Sea USGS3,728SSGS03,Colorado River,"Lead, Total",Insufficient data,10/3/2002,9.09,mg/Kg dw
+Salton Sea USGS9,728SSGS09,Colorado River,"Lead, Total",Insufficient data,5/11/2011,8.05,mg/Kg dw
+Salton Sea USGS2,728SSGS02,Colorado River,"Lead, Total",Insufficient data,5/11/2011,11.8,mg/Kg dw
+Salton Sea USGS5,728SSGS05,Colorado River,"Lead, Total",Insufficient data,10/3/2002,9.77,mg/Kg dw
+Salton Sea USGS7,728SSGS07,Colorado River,"Lead, Total",Insufficient data,5/11/2011,8.21,mg/Kg dw
+Prefumo Creek  @ Calle Joaquin,310PRE,Central Coast,"Lead, Total",Insufficient data,11/19/2015,0.24,ug/L
+Arroyo Grande at Bittle Park,310AGB,Central Coast,"Lead, Total",Insufficient data,11/19/2015,0.015,ug/L
+San Luis Obispo Creek @ Mission Plaza,310SLM,Central Coast,"Lead, Total",Insufficient data,11/19/2015,0.69,ug/L
+Stenner Creek at Nipomo Street,310SCN,Central Coast,"Lead, Total",Insufficient data,11/19/2015,0.16,ug/L
+Arroyo Grande Creek @ Strother Park,310AGS,Central Coast,"Lead, Total",Insufficient data,11/19/2015,0.015,ug/L
+Arroyo Grande at Fair Oaks Bridge,310AGF,Central Coast,"Lead, Total",Insufficient data,11/19/2015,0.05,ug/L
+Carmel River at Esquiline Road,307CMU,Central Coast,"Lead, Total",Insufficient data,9/16/2015,0.07,ug/L
+Carmel River @ Nason Rd Community Park,307CMN,Central Coast,"Lead, Total",Insufficient data,9/16/2015,0.86,ug/L
+Chorro Creek at Canet Road,310CAN,Central Coast,"Lead, Total",Insufficient data,11/5/2015,0.05,ug/L
+Mill Creek @ Mill Creek Picnic Area,308MIL,Central Coast,"Lead, Total",Insufficient data,9/2/2015,0.015,ug/L
+Limekiln Creek @ Limekiln State Park,308LIM,Central Coast,"Lead, Total",Insufficient data,9/2/2015,0.015,ug/L
+Big Sur River at Peiffer Big Sur State Park USGS gauge,308BSU,Central Coast,"Lead, Total",Insufficient data,9/2/2015,0.015,ug/L
+Garrapata Creek at Private Property access (above Highway 1),308GAR,Central Coast,"Lead, Total",Insufficient data,11/3/2015,0.05,ug/L
+Pacific Dry Dock channel in front,204PDD001,San Francisco Bay,"Lead, Total",Insufficient data,9/15/2015,66.95,mg/Kg dw
+Pacific Dry Dock storm drain,204PDD003,San Francisco Bay,"Lead, Total",Insufficient data,9/15/2015,61.2,mg/Kg dw
+Pacific Dry Dock cove,204PDD002,San Francisco Bay,"Lead, Total",Insufficient data,9/15/2015,413,mg/Kg dw
+Pacific Dry Dock south of site,204PDD004,San Francisco Bay,"Lead, Total",Insufficient data,9/15/2015,106,mg/Kg dw
+Garcia River above Olsen Gulch,113GAR084,North Coast,"Lead, Total",Insufficient data,6/28/2010,0.015,ug/L
+Mill Creek Random Olsen Site 272,801MIC272,Santa Ana,"Lead, Total",Insufficient data,7/9/2015,0.05,ug/L
+Middle Fork Lytle Creek Random Olsen Site 069,801MLC069,Santa Ana,"Lead, Total",Insufficient data,7/6/2015,0.175,ug/L
+Lytle Creek Random Olsen Site 062,801LYC062,Santa Ana,"Lead, Total",Insufficient data,7/1/2015,1.7,ug/L
+Middle Fork Lytle Creek Random Olsen Site 057,801MLC057,Santa Ana,"Lead, Total",Insufficient data,7/1/2015,0.05,ug/L
+Mill Creek Creek Random Olsen Site 034,801MIC034,Santa Ana,"Lead, Total",Insufficient data,6/25/2015,0.05,ug/L
+Morrison Creek above Smith River,103MO0858,North Coast,"Lead, Total",Insufficient data,6/23/2015,9.87,mg/Kg dw
+Jenkinson Lake @ Pinecone Campsites 1-30,532ELD001,Central Valley,"Lead, Total",Insufficient data,6/25/2002,2.5,ug/L
+Santa Barbara Harbor at Dock F,315SBHF,Central Coast,"Lead, Total",Insufficient data,9/16/2014,67.5,mg/Kg dw
+Santa Barbara Harbor Dock O,315SBHO,Central Coast,"Lead, Total",Insufficient data,9/16/2014,17.5,mg/Kg dw
+"Depressional Wetland - Point Reyes National Seashore, 1mi north of B Ranch; NT8379",201DW0271,San Francisco Bay,"Lead, Total",Insufficient data,6/23/2014,2.68,mg/Kg dw
+"Depressional Wetland - Henry Coe State Park, Mahoney Pond, 50m east of Mahoney Meadows Rd; NT11714",205DW0246,San Francisco Bay,"Lead, Total",Insufficient data,6/17/2014,10.8,mg/Kg dw
+"Depressional Wetland - Elk Glen Lake, Golden Gate Park, San Francisco; NT5791",202DW0050,San Francisco Bay,"Lead, Total",Insufficient data,6/16/2014,12.445,mg/Kg dw
+"Depressional Wetland - 30m south of Montez Blvd and Lakeview Dr, Napa; NT12238",206DW0244,San Francisco Bay,"Lead, Total",Insufficient data,6/12/2014,16.1,mg/Kg dw
+San Jacinto River Random Olsen Site 116,802SJR116,Santa Ana,"Lead, Total",Insufficient data,7/15/2013,2.5,ug/L
+"Depressional Wetland - 0.42mi northeast of Dealy Ln and Old Sonoma Rd, Napa; NT11911",206DW0228,San Francisco Bay,"Lead, Total",Insufficient data,6/11/2014,17,mg/Kg dw
+"Depressional Wetland - 250m north of Hwy 130, 1.6mi east of Isabel Creek bridge; NT19245",204DW0150,San Francisco Bay,"Lead, Total",Insufficient data,6/10/2014,15.9,mg/Kg dw
+"Depressional Wetland - 225m southeast of Acacia Ave and Burndale Rd, Sonoma; NT12688",206DW0239,San Francisco Bay,"Lead, Total",Insufficient data,6/9/2014,12.3,mg/Kg dw
+"Depressional Wetland - Point Reyes Nat Seashore, 325m W of Estero Tr, 1.5mi N of Limantour Spit; NT7",201DW0079,San Francisco Bay,"Lead, Total",Insufficient data,6/5/2014,9.92,mg/Kg dw
+"Depressional Wetland - OV Process Water Pond 300m S of Oakville Cross Rd and Money Rd, Napa; NT12049",206DW0235,San Francisco Bay,"Lead, Total",Insufficient data,6/4/2014,8.91,mg/Kg dw
+"Depressional Wetland - 200m west of Liparita Ave and Goodwells Ave intersection, Angwin; NT12112",206DW0171,San Francisco Bay,"Lead, Total",Insufficient data,5/20/2014,28.3,mg/Kg dw
+"Depressional Wetland - 1mi SE of Rancho Laguna Park, 360m east of Brown Ranch Rd, Moraga; NT7995",204DW0039,San Francisco Bay,"Lead, Total",Insufficient data,5/13/2014,10.2,mg/Kg dw
+Klamath River at Klamath Glen,105KL0330,North Coast,"Lead, Total",Insufficient data,12/4/2013,0.015,ug/L
+"Depressional Wetland - Pt Reyes Nat Seashore, 300m SW of G Ranch on Sir Francis Drake Blvd; NT8155",201DW0143,San Francisco Bay,"Lead, Total",Insufficient data,5/13/2014,5.47,mg/Kg dw
+"Depressional Wetland - 60m SE of Ygnacio Valley Rd and Montecito Dr intersection, Concord; NT7768",207DW0167,San Francisco Bay,"Lead, Total",Insufficient data,5/13/2014,16.15,mg/Kg dw
+"Depressional Wetland - Point Reyes National Seashore, Pierce Point Rd 700m east of H Ranch; NT7831",201DW0207,San Francisco Bay,"Lead, Total",Insufficient data,5/13/2014,7.67,mg/Kg dw
+"Depressional Wetland - 3.25mi east of San Antonio Reservoir, north of Williams Gulch, Sunol; NT19312",204DW0227,San Francisco Bay,"Lead, Total",Insufficient data,5/12/2014,9.41,mg/Kg dw
+"Depressional Wetland - 0.8mi west of Chiles Pope Valley Rd, 1.5mi north of Lake Hennessey; NT11988",206DW0123,San Francisco Bay,"Lead, Total",Insufficient data,5/12/2014,10.3,mg/Kg dw
+"Depressional Wetland - Ohlone Wilderness, 0.6mi E of Springboard Trail and Ohlone Wld Trail; NT19443",204DW0202,San Francisco Bay,"Lead, Total",Insufficient data,5/12/2014,10.6,mg/Kg dw
+"Depressional Wetland - 700m northwest of Buhman Ave and Henry Rd intersection, Napa; NT9286",206DW0180,San Francisco Bay,"Lead, Total",Insufficient data,5/8/2014,13.85,mg/Kg dw
+"Depressional Wetland - Joseph Grant Cnty Park, Canada de Pala Trail 400m S of Hotel Trail; NT10730",205DW0142,San Francisco Bay,"Lead, Total",Insufficient data,5/8/2014,12.5,mg/Kg dw
+"Depressional Wetland - 1mi west of Hwy 101 and 400m north of San Antonio Rd, Petaluma; NT11907",206DW0016,San Francisco Bay,"Lead, Total",Insufficient data,5/8/2014,5.37,mg/Kg dw
+"Depressional Wetland - 0.6mi NW of the fork of Morrison Canyon Rd and Vargas Rd, Fremont; NT11841",205DW0151,San Francisco Bay,"Lead, Total",Insufficient data,5/7/2014,15.4,mg/Kg dw
+"Depressional Wetland - Upper Leoma Lake, in gully below Wild Horse Valley Rd, Napa; NT5571",207DW0017,San Francisco Bay,"Lead, Total",Insufficient data,5/7/2014,27.8,mg/Kg dw
+"Depressional Wetland - 500m south of Mines Rd at 17776 Mines Rd, Livermore; NT18610",204DW0074,San Francisco Bay,"Lead, Total",Insufficient data,5/7/2014,9.29,mg/Kg dw
+"Depressional Wetland - 150m northeast of Sonoma Hwy and Davenport Rd, Glen Ellen; NT7630",206DW0212,San Francisco Bay,"Lead, Total",Insufficient data,5/7/2014,20.167,mg/Kg dw
+"Depressional Wetland - 150m south of Napa Golf Course Clubhouse, Napa; NT9552",206DW0100,San Francisco Bay,"Lead, Total",Insufficient data,5/6/2014,35.8,mg/Kg dw
+"Depressional Wetland - 550m south of Holsworth Rd and 330m west of Gehricke Rd, Sonoma; NT11679",206DW0132,San Francisco Bay,"Lead, Total",Insufficient data,5/6/2014,18.1,mg/Kg dw
+"Depressional Wetland - Pescadero Cnty Park, N of Camp Pompino Rd, E of Sheriff Honor Camp; NT7465",202DW0018,San Francisco Bay,"Lead, Total",Insufficient data,5/6/2014,11.3,mg/Kg dw
+"Depressional Wetland - South of Lobitos Creek Rd at 2100 Lobitos Creek Rd, Half Moon Bay; NT6607",202DW0194,San Francisco Bay,"Lead, Total",Insufficient data,5/6/2014,11.85,mg/Kg dw
+"Depressional Wetland - Henry Coe State Park, 1mi south of Jackson Rd, east of Tower Trail; NT12561",205DW0011,San Francisco Bay,"Lead, Total",Insufficient data,5/5/2014,9.84,mg/Kg dw
+"Depressional Wetland - On private property at 24110 Wine Country Court, Sonoma; NT12480",206DW0068,San Francisco Bay,"Lead, Total",Insufficient data,5/5/2014,7.565,mg/Kg dw
+Russian River at School Way,114RRxxxx,North Coast,"Lead, Total",Insufficient data,11/7/2013,6.4,mg/Kg dw
+Mark West Creek at River Road,114MW2583,North Coast,"Lead, Total",Insufficient data,11/7/2013,20.8,mg/Kg dw
+Bucknell Creek above Eel River,111BN0329,North Coast,"Lead, Total",Insufficient data,11/7/2013,6.85,mg/Kg dw
+Trinity River - North Fork at Helena,106NF0015,North Coast,"Lead, Total",Insufficient data,12/3/2013,0.015,ug/L
+Trinity River - South Fork near Salyer,106SF0013,North Coast,"Lead, Total",Insufficient data,12/3/2013,0.06,ug/L
+Trinity River at Salyer,106TR1974,North Coast,"Lead, Total",Insufficient data,12/3/2013,0.015,ug/L
+Klamath River at Weitchpec,105KL2057,North Coast,"Lead, Total",Insufficient data,12/3/2013,0.015,ug/L
+Klamath River above Orleans,105KL2814,North Coast,"Lead, Total",Insufficient data,12/3/2013,0.015,ug/L
+Trinity River at Weitchpec,106TR0008,North Coast,"Lead, Total",Insufficient data,12/3/2013,0.015,ug/L
+South Fork Trinity above Hayfork Creek,106SF3551,North Coast,"Lead, Total",Insufficient data,12/2/2013,0.015,ug/L
+Trinity River downstream hatchery near Lewiston,106TR6801,North Coast,"Lead, Total",Insufficient data,12/2/2013,0.015,ug/L
+Hayfork Creek above South Fork Trinity River,106HF0019,North Coast,"Lead, Total",Insufficient data,12/2/2013,0.015,ug/L
+Shasta River near Edgewood,105SH9274,North Coast,"Lead, Total",Insufficient data,11/20/2013,0.015,ug/L
+Shasta River at Hwy 263,105SH1452,North Coast,"Lead, Total",Insufficient data,11/20/2013,0.015,ug/L
+Klamath River at Iron Gate Hatchery Bridge,105KL9084,North Coast,"Lead, Total",Insufficient data,11/19/2013,0.015,ug/L
+Taylor Lake,715CRTLI1,Colorado River,"Lead, Total",Insufficient data,10/2/2002,6.215,mg/Kg dw
+Squaw Lake,715CRSQLK,Colorado River,"Lead, Total",Insufficient data,10/2/2002,11.2,mg/Kg dw
+Klamath River at State Line,105KL9990,North Coast,"Lead, Total",Insufficient data,11/19/2013,0.11,ug/L
+Packwood Creek,558PKC010,Central Valley,"Lead, Total",Insufficient data,4/29/2008,16,mg/Kg dw
+Klamath River at Portuguese Creek River Access,105KL6111,North Coast,"Lead, Total",Insufficient data,11/19/2013,0.015,ug/L
+Klamath River at Skeahan Bar River Access,105KL8064,North Coast,"Lead, Total",Insufficient data,11/19/2013,0.015,ug/L
+Scott River at Callahan,105SC9823,North Coast,"Lead, Total",Insufficient data,11/18/2013,0.015,ug/L
+Scott River near Klamath River,105SC0083,North Coast,"Lead, Total",Insufficient data,11/18/2013,0.015,ug/L
+Lake Cahuilla,719PLC115,Colorado River,"Lead, Total",Insufficient data,4/24/2013,13.5,mg/Kg dw
+Jenkinson Lake @ Mormon Emigrant Trail,532ELD002,Central Valley,"Lead, Total",Insufficient data,6/25/2002,2.5,ug/L
+Garcia River above Inman Creek,113GAR087,North Coast,"Lead, Total",Insufficient data,8/6/2013,0.11,ug/L
+City Creek Random Olsen Site 114,801CYC114,Santa Ana,"Lead, Total",Insufficient data,7/15/2013,1.4,ug/L
+Cajon Wash Random Olsen Site 396,801RB8396,Santa Ana,"Lead, Total",Insufficient data,7/15/2013,1.3,ug/L
+North Fork Lytle Creek Random Olsen Site 362,801PLC362,Santa Ana,"Lead, Total",Insufficient data,7/15/2013,1.9,ug/L
+San Timoteo Wash Random Olsen Site 559,801RB8559,Santa Ana,"Lead, Total",Insufficient data,7/15/2013,4,ug/L
+Cucamonga Creek Random Olsen Site 566,801RB8566,Santa Ana,"Lead, Total",Insufficient data,7/8/2013,0.05,ug/L
+Coyote Creek Random Olsen Site 633,845RB8633,Santa Ana,"Lead, Total",Insufficient data,7/8/2013,0.05,ug/L
+Alder Creek Random Olsen Site 240,801RB8240,Santa Ana,"Lead, Total",Insufficient data,7/8/2013,0.05,ug/L
+Unknown Channel Random Olsen Site 549,801RB8549,Santa Ana,"Lead, Total",Insufficient data,7/1/2013,0.05,ug/L
+Deer Creek Random Olsen Site 254,801RB8254,Santa Ana,"Lead, Total",Insufficient data,7/1/2013,0.05,ug/L
+Forsee Creek Random Olsen Site 478,801RB8478,Santa Ana,"Lead, Total",Insufficient data,7/1/2013,0.05,ug/L
+Chino Creek Random Olsen Site 197,801RB8197,Santa Ana,"Lead, Total",Insufficient data,7/1/2013,0.05,ug/L
+Frog Creek Random Olsen Site 380,801RB8380,Santa Ana,"Lead, Total",Insufficient data,7/1/2013,0.05,ug/L
+Mile Creek Random Olsen Site 448,801RB8448,Santa Ana,"Lead, Total",Insufficient data,7/1/2013,0.05,ug/L
+Blanco Drain below Pump,309BLA,Central Coast,"Lead, Total",Insufficient data,6/26/2013,4.428,ug/L
+Santa Ana River Random Olsen Site 168,801SAR168,Santa Ana,"Lead, Total",Insufficient data,6/24/2013,0.19,ug/L
+Santa Ana River Random Olsen Site 594,801RB8594,Santa Ana,"Lead, Total",Insufficient data,6/24/2013,0.2,ug/L
+Strawberry Creek Random Olsen Site 270,802SWC270,Santa Ana,"Lead, Total",Insufficient data,6/24/2013,1.4,ug/L
+Mill Creek Random Olsen Site 501,801RB8501,Santa Ana,"Lead, Total",Insufficient data,6/24/2013,0.11,ug/L
+Santa Ana River Random Olsen Site 050,801HBC050,Santa Ana,"Lead, Total",Insufficient data,6/24/2013,0.11,ug/L
+Mill Creek Random Olsen Site 533,801RB8533,Santa Ana,"Lead, Total",Insufficient data,6/24/2013,0.35,ug/L
+Strawberry Creek Random Olsen Site 419,802SWC419,Santa Ana,"Lead, Total",Insufficient data,6/24/2013,2.9,ug/L
+Franklin Creek 300 feet below Meadow View Road,315FRCMVD,Central Coast,"Lead, Total",Insufficient data,6/19/2013,0.015,ug/L
+Franklin Creek 300 feet above Meadow View Road,315FRCMVU,Central Coast,"Lead, Total",Insufficient data,6/19/2013,0.015,ug/L
+Sims Pond (Los Cerritos),405LCSIMS,Los Angeles,"Lead, Total",Insufficient data,6/7/2005,47.9,mg/Kg dw
+Klamath River Below Iron Gate,105KL9073,North Coast,"Lead, Total",Insufficient data,3/6/2013,0.066,ug/L
+Klamath River at Gottville River Access,105KL7907,North Coast,"Lead, Total",Insufficient data,3/6/2013,0.055,ug/L
+San Diego Creek at East Yale Loop,801SDCEYL,Santa Ana,"Lead, Total",Insufficient data,1/11/2013,11.55,mg/Kg dw
+San Diego Creek  at Alton Parkway,801SDCALT,Santa Ana,"Lead, Total",Insufficient data,1/11/2013,14.75,mg/Kg dw
+Coyote Creek at Galveston,205COYGAL,San Francisco Bay,"Lead, Total",Insufficient data,1/3/2013,48.15,mg/Kg dw
+Coyote Creek at Santa Clara St.,205COYSCL,San Francisco Bay,"Lead, Total",Insufficient data,1/3/2013,65.3,mg/Kg dw
+Garcia River at Eureka Hill Road,113GA2733,North Coast,"Lead, Total",Insufficient data,11/27/2012,0.015,ug/L
+Forrester Creek 2,907SDFRC2,San Diego,"Lead, Total",Insufficient data,11/26/2012,8.96,mg/Kg dw
+Forester Creek at the Propsect Bridge,907SDFPB1,San Diego,"Lead, Total",Insufficient data,11/26/2012,19.85,mg/Kg dw
+Forester Creek at the Olive Lane Bridge,907SDFOL1,San Diego,"Lead, Total",Insufficient data,11/26/2012,36.5,mg/Kg dw
+South Fork Gualala River at Annapolis Road,113SF2035,North Coast,"Lead, Total",Insufficient data,11/26/2012,0.015,ug/L
+Rockpile Creek at South Fork Gualala River,113RP0051,North Coast,"Lead, Total",Insufficient data,11/26/2012,0.015,ug/L
+Gualala River at Gualala Regional Park,113GU4637,North Coast,"Lead, Total",Insufficient data,11/26/2012,0.015,ug/L
+North Fork Gualala River at Gualala River,113NF0828,North Coast,"Lead, Total",Insufficient data,11/26/2012,0.015,ug/L
+Buckeye Creek at South Fork Gualala River,113BU0067,North Coast,"Lead, Total",Insufficient data,11/26/2012,0.015,ug/L
+Wheatfield Fork Gualala River at Annapolis Road,113WF0079,North Coast,"Lead, Total",Insufficient data,11/26/2012,0.015,ug/L
+Smith River South Fork above Hiouchi,103SF0039,North Coast,"Lead, Total",Insufficient data,11/15/2012,0.015,ug/L
+Mad River at Blue Lake below Hatchery,109MA1087,North Coast,"Lead, Total",Insufficient data,11/15/2012,0.015,ug/L
+Redwood Creek at Orick,107RE0437,North Coast,"Lead, Total",Insufficient data,11/15/2012,0.015,ug/L
+Smith River above South Fork,103SM6897,North Coast,"Lead, Total",Insufficient data,11/15/2012,0.015,ug/L
+Smith River below Dr. Fine Bridge,103SM1917,North Coast,"Lead, Total",Insufficient data,11/15/2012,0.015,ug/L
+Salmon Creek at Hwy 101,110SA1720,North Coast,"Lead, Total",Insufficient data,11/14/2012,0.099,ug/L
+Freshwater Creek at Freshwater Park,110FR4642,North Coast,"Lead, Total",Insufficient data,11/14/2012,0.015,ug/L
+MATTOLE RIVER AT PETROLIA,112MA0903,North Coast,"Lead, Total",Insufficient data,11/14/2012,0.015,ug/L
+Jacoby Creek - Lower,110JA2619,North Coast,"Lead, Total",Insufficient data,11/14/2012,0.015,ug/L
+NORTH FORK MATTOLE AT PETROLIA,112NF0585,North Coast,"Lead, Total",Insufficient data,11/14/2012,0.015,ug/L
+Lower Fleming Creek,113GAR038,North Coast,"Lead, Total",Insufficient data,9/10/2012,0.015,ug/L
+South Fork Garcia River below Fleming Creek,113GAR118,North Coast,"Lead, Total",Insufficient data,9/10/2012,0.015,ug/L
+SF Garcia River Below Fleming Creek,113GAR010,North Coast,"Lead, Total",Insufficient data,8/27/2012,0.015,ug/L
+Fern Canyon Creek ~0.3mi above ocean bluffs,107WER092,North Coast,"Lead, Total",Insufficient data,8/27/2012,0.015,ug/L
+Garcia River upstream of SF Garcia River,113GAR062,North Coast,"Lead, Total",Insufficient data,8/27/2012,0.015,ug/L
+Anderson Creek at Highway 128,113AC3897,North Coast,"Lead, Total",Insufficient data,8/1/2012,0.015,ug/L
+Coffee Creek EF ~1.4mi above Mainstem,106WE1079,North Coast,"Lead, Total",Insufficient data,8/8/2012,0.015,ug/L
+Galloway Creek ~0.5mi below White Creek,114CE0131,North Coast,"Lead, Total",Insufficient data,7/31/2012,0.015,ug/L
+Cold Creek ~1.3mi above Plasket Creek,111WE1071,North Coast,"Lead, Total",Insufficient data,7/26/2012,0.015,ug/L
+Thistle Glade Creek ~1mi above Eel River,111TGCAER,North Coast,"Lead, Total",Insufficient data,7/24/2012,0.015,ug/L
+Rattlesnake Creek ~0.5mi above Eel River,111WER008,North Coast,"Lead, Total",Insufficient data,7/23/2012,0.06,ug/L
+San Luis Rey River 8,903SLSLR8,San Diego,"Lead, Total",Insufficient data,6/1/2012,14.745,mg/Kg dw
+Greenwood Creek at Highway 1,113GR0241,North Coast,"Lead, Total",Insufficient data,4/3/2012,0.251,ug/L
+Santa Rita Slough at HWY 152,541MER015,Central Valley,"Lead, Total",Insufficient data,8/30/2001,2.5,ug/L
+Marsh Creekat Delta Road,541MERDEL,Central Valley,"Lead, Total",Insufficient data,1/12/2012,21.425,mg/Kg dw
+Marsh Creek at Sunset Road,541MERSUN,Central Valley,"Lead, Total",Insufficient data,1/12/2012,22.2,mg/Kg dw
+Austin Creek at Old Duncans Grade,114AU0318,North Coast,"Lead, Total",Insufficient data,12/1/2011,0.015,ug/L
+East Fork Russian River below Coyote Dam,114EF0373,North Coast,"Lead, Total",Insufficient data,11/30/2011,0.048,ug/L
+Russian River at Talmage (Ukiah),114RR8339,North Coast,"Lead, Total",Insufficient data,11/30/2011,0.015,ug/L
+Dry Creek at Warm Springs Dam,114DC3277,North Coast,"Lead, Total",Insufficient data,11/29/2011,0.015,ug/L
+Dry Creek at Russian River,114DC0037,North Coast,"Lead, Total",Insufficient data,11/29/2011,0.031,ug/L
+Russian River below Vacation Beach,114RR1041,North Coast,"Lead, Total",Insufficient data,10/10/2011,0.136,ug/L
+Russian River near Korbel,114RR1599,North Coast,"Lead, Total",Insufficient data,10/10/2011,0.163,ug/L
+Russian River below Healdsburg Memorial Beach,114RR2899,North Coast,"Lead, Total",Insufficient data,10/24/2011,0.117,ug/L
+Alamo River at International Boundary,723ARINTL,Colorado River,"Lead, Total",Insufficient data,10/11/2011,9.5,mg/Kg dw
+Russian River at Highway 128,114RR4751,North Coast,"Lead, Total",Insufficient data,6/25/2001,50,ug/L
+Russian River at Jenner Boat Ramp,114RR0066,North Coast,"Lead, Total",Insufficient data,6/26/2001,50,ug/L
+Powell Creek above Trinity River,106FS0040,North Coast,"Lead, Total",Insufficient data,8/30/2011,0.015,ug/L
+Inman Creek below Inman Road,113GAR011,North Coast,"Lead, Total",Insufficient data,8/22/2011,0.015,ug/L
+Bear Creek at Thornton Road (J8),544SJC508,Central Valley,"Lead, Total",Insufficient data,6/18/2002,2.5,ug/L
+Bear Creek at Lower Sacramento Road,531SJC515,Central Valley,"Lead, Total",Insufficient data,11/19/2002,2.5,ug/L
+Cosumnes River @ Michigan Bar Rd.,531SAC003,Central Valley,"Lead, Total",Insufficient data,6/25/2002,2.5,ug/L
+"Salmon River, NF ~2.7mi above Sawyers Bar Rd.",105FS0425,North Coast,"Lead, Total",Insufficient data,8/10/2011,0.015,ug/L
+Stony Creek ~0.2mi abobe NF Smith River,103STCNSR,North Coast,"Lead, Total",Insufficient data,8/9/2011,0.015,ug/L
+Rattlesnake Creek ~1.3mi above Eel River,111RSCAER,North Coast,"Lead, Total",Insufficient data,8/8/2011,0.015,ug/L
+Redwood Creek ~0.2mi below Harry Weir Cr.,107RWCBHW,North Coast,"Lead, Total",Insufficient data,8/3/2011,0.015,ug/L
+Wooley Creek ~0.5mi above Bridge Cr.,105WLCABC,North Coast,"Lead, Total",Insufficient data,8/3/2011,0.015,ug/L
+Bridge Creek above Wooley Cr.,105FS0428,North Coast,"Lead, Total",Insufficient data,8/3/2011,0.015,ug/L
+Salmon Creek ~6.5mi above Tompkins Hill Rd.,110SMCATH,North Coast,"Lead, Total",Insufficient data,7/27/2011,0.015,ug/L
+Horse Creek above Eel River,111HSCAER,North Coast,"Lead, Total",Insufficient data,7/26/2011,0.015,ug/L
+"Elk Creek, SF above Little South Fork",110ECSLSF,North Coast,"Lead, Total",Insufficient data,7/26/2011,0.015,ug/L
+New Jerusalem Tile Drain,544SJC001,Central Valley,"Lead, Total",Insufficient data,11/19/2002,2.5,ug/L
+Tom Paine Slough at Paradise Road,544SJC505,Central Valley,"Lead, Total",Insufficient data,11/19/2002,2.5,ug/L
+Old River at Tracy Blvd.,544SJC506,Central Valley,"Lead, Total",Insufficient data,11/19/2002,2.5,ug/L
+Rowdy Creek below Copper Cr.,103RDCBCC,North Coast,"Lead, Total",Insufficient data,7/21/2011,0.037,ug/L
+Mokelumne River @ Camanche Rec. S. Shore,531CAL005,Central Valley,"Lead, Total",Insufficient data,6/24/2002,2.5,ug/L
+New Hogan Reservoir @ Wrinkle Cove,533CAL007,Central Valley,"Lead, Total",Insufficient data,6/24/2002,2.5,ug/L
+New Hogan Reservoir @ Acorn East Campground,533CAL006,Central Valley,"Lead, Total",Insufficient data,6/24/2002,2.5,ug/L
+Calaveras River @ Monte Vista Trailhead,533CAL008,Central Valley,"Lead, Total",Insufficient data,6/24/2002,2.5,ug/L
+Salmon Creek at Mache Ranch,115SC6093,North Coast,"Lead, Total",Insufficient data,7/7/2011,0.058,ug/L
+Green Valley Creek above Atascadero Creek,114GV5331,North Coast,"Lead, Total",Insufficient data,7/6/2011,0.015,ug/L
+Green Valley Creek above Highway 116,114GV3469,North Coast,"Lead, Total",Insufficient data,7/5/2011,0.122,ug/L
+Mud Slough Upstream of SLD Terminus,541MER536,Central Valley,"Lead, Total",Insufficient data,11/21/2002,2.5,ug/L
+Salt Slough @ Lander Avenue,541MER531,Central Valley,"Lead, Total",Insufficient data,7/23/2008,15.75,mg/Kg dw
+San Luis Drain @ Terminus,541MER535,Central Valley,"Lead, Total",Insufficient data,11/21/2002,2.5,ug/L
+Russian River below Johnson's Beach,114RR1310,North Coast,"Lead, Total",Insufficient data,6/2/2011,0.015,ug/L
+SJR @ Fremont Ford,541MER538,Central Valley,"Lead, Total",Insufficient data,11/21/2002,2.5,ug/L
+Russian River above Syar Pond,114RR2769,North Coast,"Lead, Total",Insufficient data,6/1/2011,0.015,ug/L
+Big Chico Creek at River Road,504BCHRIV,Central Valley,"Lead, Total",Insufficient data,8/18/2010,8.87,mg/Kg dw
+Grayson Road Drain at Grayson,541STC030,Central Valley,"Lead, Total",Insufficient data,11/20/2002,2.5,ug/L
+Salado Creek at HWY 33,541STC515,Central Valley,"Lead, Total",Insufficient data,11/20/2002,2.5,ug/L
+Santa Rosa Creek above West 3rd Street,114SR3184,North Coast,"Lead, Total",Insufficient data,10/19/2010,0.015,ug/L
+Santa Rosa Creek at Dutton Avenue,114SR2971,North Coast,"Lead, Total",Insufficient data,10/19/2010,0.015,ug/L
+Santa Rosa Creek at Santa Rosa Avenue,114SR3438,North Coast,"Lead, Total",Insufficient data,10/19/2010,0.061,ug/L
+Santa Rosa Creek below West 3rd Street,114SR3121,North Coast,"Lead, Total",Insufficient data,10/19/2010,0.034,ug/L
+Santa Rosa Creek at Highway 101,114SR3320,North Coast,"Lead, Total",Insufficient data,10/19/2010,0.041,ug/L
+Indian Creek above Baker Gulch,105IN3286,North Coast,"Lead, Total",Insufficient data,10/13/2010,0.015,ug/L
+Indian Creek above Happy Camp,105IN1545,North Coast,"Lead, Total",Insufficient data,10/13/2010,0.015,ug/L
+Baker Gulch above Indian Creek,105BG0886,North Coast,"Lead, Total",Insufficient data,10/13/2010,0.015,ug/L
+East Fork Indian Creek above Indian Creek,105EI0066,North Coast,"Lead, Total",Insufficient data,10/13/2010,0.015,ug/L
+South Fork Indian Creek above Indian Creek,105SI0473,North Coast,"Lead, Total",Insufficient data,10/13/2010,0.038,ug/L
+Indian Creek above South Fork Indian Creek,105IN4395,North Coast,"Lead, Total",Insufficient data,10/13/2010,5.27,ug/L
+Luther Gulch above Indian Creek,105LG0421,North Coast,"Lead, Total",Insufficient data,10/13/2010,0.906,ug/L
+Indian Creek below Luther Gulch,105IN2529,North Coast,"Lead, Total",Insufficient data,10/13/2010,23.8,ug/L
+Alamo River Above Drop 3,723ARDP3A,Colorado River,"Lead, Total",Insufficient data,10/6/2010,10.3,mg/Kg dw
+South Fork Eel River below Phillipsville,111SF1944,North Coast,"Lead, Total",Insufficient data,10/5/2010,0.015,ug/L
+Indian Creek above Spanish Creek,518INABSP,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+Lake Amador @ Lake Amador Boat Launch,532AMA003,Central Valley,"Lead, Total",Insufficient data,6/24/2002,2.5,ug/L
+Salmon Creek above South Fork Eel,111SC0166,North Coast,"Lead, Total",Insufficient data,8/3/2010,0.015,ug/L
+Russian Gulch,113RG8046,North Coast,"Lead, Total",Insufficient data,8/19/2010,0.015,ug/L
+Garcia River below SF Garcia River,113GAR094,North Coast,"Lead, Total",Insufficient data,7/27/2010,0.015,ug/L
+Eel River - South Fork near Branscomb,111SF8921,North Coast,"Lead, Total",Insufficient data,7/20/2010,0.015,ug/L
+Eel River d/s Van Arsdale Reservoir,111ER7910,North Coast,"Lead, Total",Insufficient data,7/20/2010,0.015,ug/L
+Van Duzen River downstream of Yager Creek,111VD0160,North Coast,"Lead, Total",Insufficient data,7/20/2010,0.015,ug/L
+Elder Creek at Eel River,111EC0137,North Coast,"Lead, Total",Insufficient data,7/20/2010,0.015,ug/L
+Eel River - North Fork near Mina,111NF1843,North Coast,"Lead, Total",Insufficient data,7/19/2010,0.015,ug/L
+Eel River - South Fork downstream of Bull Creek,111SF0119,North Coast,"Lead, Total",Insufficient data,7/19/2010,0.026,ug/L
+Eel River above Dyerville,111ER2075,North Coast,"Lead, Total",Insufficient data,7/19/2010,0.015,ug/L
+Eel River above Holmes,111ER1798,North Coast,"Lead, Total",Insufficient data,7/19/2010,0.015,ug/L
+Maacama Creek above Franz Creek,114MA2364,North Coast,"Lead, Total",Insufficient data,7/6/2010,0.015,ug/L
+Ebabias Creek,115EBAG01,North Coast,"Lead, Total",Insufficient data,7/1/2010,0.037,ug/L
+Salmon Creek above Nolan Creek,115SALG01,North Coast,"Lead, Total",Insufficient data,6/30/2010,0.087,ug/L
+Austin Creek above Red Slide Creek,114AU7778,North Coast,"Lead, Total",Insufficient data,6/21/2010,0.032,ug/L
+Colusa Basin Drain @ Knights Landing Downstream,520CBDKLD,Central Valley,"Lead, Total",Insufficient data,8/20/2008,9.88,mg/Kg dw
+Laguna de Santa Rosa at Mirabel,114LAGMIR,North Coast,"Lead, Total",Insufficient data,9/15/2009,13.47,mg/Kg dw
+Elk River at Fields Landing,110ELKRIV,North Coast,"Lead, Total",Insufficient data,7/21/2009,0.072,ug/L
+Yreka Creek at Anderson Rd,105YREAND,North Coast,"Lead, Total",Insufficient data,7/21/2009,0.031,ug/L
+Little River at Crannel,108LI3693,North Coast,"Lead, Total",Insufficient data,7/21/2009,0.057,ug/L
+Freshwater Creek - Upper,110FR4913,North Coast,"Lead, Total",Insufficient data,7/21/2009,0.015,ug/L
+East Fork Russian River at Hwy 20,114EFRR20,North Coast,"Lead, Total",Insufficient data,7/20/2009,0.071,ug/L
+Mark West Creek ~1.2mi above Van Buren Cr.,114MW8747,North Coast,"Lead, Total",Insufficient data,6/23/2009,0.015,ug/L
+Devereux Slough at Golf Course culvert,315DEV,Central Coast,"Lead, Total",Insufficient data,3/26/2002,3.11,mg/Kg dw
+Navarro River at Dimmick campground,113NAVDMC,North Coast,"Lead, Total",Insufficient data,10/14/2008,10.285,mg/Kg dw
+Russian River at Alexander RV Park,114RRAXRV,North Coast,"Lead, Total",Insufficient data,10/14/2008,4.595,mg/Kg dw
+Lower Truckee River upstream of CA/NV state line,635TRKSD1,Lahontan,"Lead, Total",Insufficient data,9/22/2008,14.75,mg/Kg dw
+Revolon Slough,408CAL005,Los Angeles,"Lead, Total",Insufficient data,10/31/2001,0.912,ug/L
+San Jacinto River at Goetz/TMDL site,802SJRGxx,Santa Ana,"Lead, Total",Insufficient data,6/3/2008,13.25,mg/Kg dw
+Agua Hedionda Creek 6,904CBAHC6,San Diego,"Lead, Total",Insufficient data,5/21/2008,17.85,mg/Kg dw
+Soledad Canyon Creek 4,906LPSOL4,San Diego,"Lead, Total",Insufficient data,5/21/2008,29.75,mg/Kg dw
+Drainage East of San Gabriel River at Hgwy22,845SGRDRE,Santa Ana,"Lead, Total",Insufficient data,5/20/2008,131.5,mg/Kg dw
+Calleguas Creek Main Stem (between Revolon Slough and Conejo Creek),408CAL006,Los Angeles,"Lead, Total",Insufficient data,5/19/2008,19.05,mg/Kg dw
+Santa Clara River Upstream Bouquet Canyon Cr,403STCBQU,Los Angeles,"Lead, Total",Insufficient data,5/19/2008,14.75,mg/Kg dw
+SJR @ Hills Ferry,541STC512,Central Valley,"Lead, Total",Insufficient data,11/20/2002,2.5,ug/L
+San Antonio Creek @ Sheep Ranch Rd.,533CAL001,Central Valley,"Lead, Total",Insufficient data,6/26/2002,2.5,ug/L
+Channel Islands Harbor 4,410VHCHN4,Los Angeles,"Lead, Total",Insufficient data,10/12/2006,29.5,mg/Kg dw
+Channel Islands Harbor 5,410VHCHN5,Los Angeles,"Lead, Total",Insufficient data,10/12/2006,8.87,ug/L
+Channel Islands Harbor 1,410VHCHN1,Los Angeles,"Lead, Total",Insufficient data,10/11/2006,23.1,mg/Kg dw
+Channel Islands Harbor 2,410VHCHN2,Los Angeles,"Lead, Total",Insufficient data,10/11/2006,74.2,mg/Kg dw
+Channel Islands Harbor 3,410VHCHN3,Los Angeles,"Lead, Total",Insufficient data,10/11/2006,26.3,mg/Kg dw
+J Street Drain,410VDJSD1,Los Angeles,"Lead, Total",Insufficient data,10/4/2006,6.02,mg/Kg dw
+Oxnard Drain,410VDOXD1,Los Angeles,"Lead, Total",Insufficient data,10/4/2006,35.32,mg/Kg dw
+Port Hueneme Harbor 1,410VHHME1,Los Angeles,"Lead, Total",Insufficient data,10/3/2006,11.82,mg/Kg dw
+Hueneme Drain,410VDHME1,Los Angeles,"Lead, Total",Insufficient data,10/3/2006,20.15,ug/L
+Port Hueneme Harbor 4,410VHHME4,Los Angeles,"Lead, Total",Insufficient data,10/3/2006,8.77,ug/L
+Port Hueneme Harbor 2,410VHHME2,Los Angeles,"Lead, Total",Insufficient data,10/3/2006,15.5,mg/Kg dw
+Port Hueneme Harbor 3,410VHHME3,Los Angeles,"Lead, Total",Insufficient data,10/3/2006,21.8,mg/Kg dw
+Ventura River Estuary,402VNTEST,Los Angeles,"Lead, Total",Insufficient data,10/2/2006,2.353,ug/L
+Ventura Marina 4,407VHVTR4,Los Angeles,"Lead, Total",Insufficient data,10/2/2006,13.247,mg/Kg dw
+Los Sauces Lower,401VCSAUL,Los Angeles,"Lead, Total",Insufficient data,6/8/2006,0.07,ug/L
+Los Sauces Upper,401VCSAUU,Los Angeles,"Lead, Total",Insufficient data,6/8/2006,0.13,ug/L
+Madranio Lower,401VCMADL,Los Angeles,"Lead, Total",Insufficient data,6/7/2006,0.35,ug/L
+Padre Juan Canyon Upper,401VCPJCU,Los Angeles,"Lead, Total",Insufficient data,6/7/2006,0.11,ug/L
+Madranio Upper,401VCMADU,Los Angeles,"Lead, Total",Insufficient data,6/7/2006,0.63,ug/L
+Padre Juan Canyon Lower,401VCPJCL,Los Angeles,"Lead, Total",Insufficient data,6/7/2006,0.66,ug/L
+Big Sycamore Lower,404VCBSCL,Los Angeles,"Lead, Total",Insufficient data,6/6/2006,0.03,ug/L
+Little Sycamore Upper,404VCLSCU,Los Angeles,"Lead, Total",Insufficient data,6/6/2006,0.04,ug/L
+Big Sycamore Canyon Creek Upper ~2.4mi above Wood Canyon,404VCBSCU,Los Angeles,"Lead, Total",Insufficient data,6/6/2006,0.03,ug/L
+Little Sycamore Lower,404VCLSCL,Los Angeles,"Lead, Total",Insufficient data,6/6/2006,0.03,ug/L
+Javon Canyon Upper,401VCJVCU,Los Angeles,"Lead, Total",Insufficient data,6/5/2006,0.24,ug/L
+Javon Canyon Lower,401VCJVCL,Los Angeles,"Lead, Total",Insufficient data,6/5/2006,0.24,ug/L
+Salton Sea Drain NW2 (Torrez Martinez 2),728SSDNW2,Colorado River,"Lead, Total",Insufficient data,5/3/2006,10.1,mg/Kg dw
+Lower Pine Gulch,201PNG010,San Francisco Bay,"Lead, Total",Insufficient data,4/11/2005,5.21,mg/Kg dw
+Lobos Below Lincoln,203LOB020,San Francisco Bay,"Lead, Total",Insufficient data,4/11/2005,20.2,mg/Kg dw
+Easkoot,201EAS020,San Francisco Bay,"Lead, Total",Insufficient data,4/11/2005,6.54,mg/Kg dw
+Glen Canyon Park,204ISL050,San Francisco Bay,"Lead, Total",Insufficient data,4/11/2005,26.1,mg/Kg dw
+Turner Slough at Fourth Ave.,535MER576,Central Valley,"Lead, Total",Insufficient data,11/21/2002,2.5,ug/L
+Deep Slough at Green House Road,535MER577,Central Valley,"Lead, Total",Insufficient data,11/21/2002,2.5,ug/L
+Pixley Slough at Davis Road,531SJC507,Central Valley,"Lead, Total",Insufficient data,10/29/2002,2.5,ug/L
+SJR @ Sack Dam,541MAD007,Central Valley,"Lead, Total",Insufficient data,11/21/2002,2.5,ug/L
+Ingram Creek at River Road,541STC040,Central Valley,"Lead, Total",Insufficient data,11/20/2002,2.5,ug/L
+Hospital Creek at River Road,541STC042,Central Valley,"Lead, Total",Insufficient data,9/25/2002,2.5,ug/L
+Bean Hollow,202BUT010,San Francisco Bay,"Lead, Total",Insufficient data,1/28/2003,0.124,ug/L
+Walnut Creek,405SGB506,Los Angeles,"Lead, Total",Insufficient data,7/25/2005,0.73,ug/L
+"Mammoth Cr, at Old Mammoth Rd",603MAM007,Lahontan,"Lead, Total",Insufficient data,7/21/2005,0.1,ug/L
+Mammoth Cr Trib,603MAM009,Lahontan,"Lead, Total",Insufficient data,7/21/2005,0.2,ug/L
+North Fork San Gabriel,405SGBNFK,Los Angeles,"Lead, Total",Insufficient data,6/15/2005,0.015,ug/L
+Rio Hondo,412LARRHO,Los Angeles,"Lead, Total",Insufficient data,7/11/2005,0.13,ug/L
+Russian River at Cloverdale d/s STP,114CLOSTP,North Coast,"Lead, Total",Insufficient data,6/30/2005,0.03,ug/L
+East Fork Russian River at Powerhouse,114EFRRPH,North Coast,"Lead, Total",Insufficient data,6/29/2005,0.03,ug/L
+Klamath River below Everill Creek,105KLAEVC,North Coast,"Lead, Total",Insufficient data,6/21/2005,0.04,ug/L
+Klamath River at Seiad Valley,105KL6175,North Coast,"Lead, Total",Insufficient data,6/21/2005,0.03,ug/L
+Yreka Creek at Highway 3,105YREHW3,North Coast,"Lead, Total",Insufficient data,6/20/2005,0.11,ug/L
+Eel River at Holmes,111ER1574,North Coast,"Lead, Total",Insufficient data,6/20/2005,1.06,ug/L
+West Fork San Gabriel,405SGBWFK,Los Angeles,"Lead, Total",Insufficient data,6/15/2005,0.015,ug/L
+East Fork San Gabriel,405SGBEFK,Los Angeles,"Lead, Total",Insufficient data,6/15/2005,0.47,ug/L
+Above Vulcan Bridge Zone 7,204AMO070,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,4.24,mg/Kg dw
+Cesar Chavez Park,204PRL020,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,29.8,mg/Kg dw
+Glen Echo at 29th Street,204LME100,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,94.1,mg/Kg dw
+Sausal at E.22nd,204SAU030,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,12.7,mg/Kg dw
+Arroyo Viejo Rec. Center,204AVJ020,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,13.3,mg/Kg dw
+Strawberry Creek Park,203STW010,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,18.9,mg/Kg dw
+Codornices at 2nd Street,203COD020,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,47.6,mg/Kg dw
+Baxter at Booker,203BAX030,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,29.4,mg/Kg dw
+Cerrito at Creekside Park,203CER020,San Francisco Bay,"Lead, Total",Insufficient data,4/12/2005,56.8,mg/Kg dw
+Morris Dam (downstream),405SGBMRS,Los Angeles,"Lead, Total",Insufficient data,6/9/2005,0.43,ug/L
+Colorado Lagoon,405COLLGN,Los Angeles,"Lead, Total",Insufficient data,6/7/2005,37.4,mg/Kg dw
+San Gabriel River Estuary,405SGBETY,Los Angeles,"Lead, Total",Insufficient data,6/7/2005,14.605,mg/Kg dw
+"Los Cerritos Channel, Anaheim",405LSCTSA,Los Angeles,"Lead, Total",Insufficient data,6/7/2005,126,mg/Kg dw
+"Los Cerritos Channel, Wetlands",405LSCTSW,Los Angeles,"Lead, Total",Insufficient data,6/6/2005,84.8,mg/Kg dw
+Los Angeles River Estuary,412LARETY,Los Angeles,"Lead, Total",Insufficient data,6/6/2005,78.8,mg/Kg dw
+Long Beach Marina (Los Cerritos Channel),405LSCTSM,Los Angeles,"Lead, Total",Insufficient data,6/6/2005,74.65,mg/Kg dw
+Amargosa River at USGS Gage (Tecopa),609AMR003,Lahontan,"Lead, Total",Insufficient data,3/15/2005,15.535,ug/L
+Russian River d/s Ukiah STP (AR Thomas),114RRART1,North Coast,"Lead, Total",Insufficient data,2/23/2005,0.17,ug/L
+Moss Landing Harbor random site 4,309MSLG04,Central Coast,"Lead, Total",Insufficient data,6/24/2004,16.6,mg/Kg dw
+Monterey Harbor random site 8,309MTRY08,Central Coast,"Lead, Total",Insufficient data,6/24/2004,39.8,mg/Kg dw
+Moss Landing Harbor random site 26,306MSLG26,Central Coast,"Lead, Total",Insufficient data,6/24/2004,10.6,mg/Kg dw
+Moss Landing Harbor random site 30,309MSLG30,Central Coast,"Lead, Total",Insufficient data,6/24/2004,22.4,mg/Kg dw
+Monterey Harbor random site 24,309MTRY24,Central Coast,"Lead, Total",Insufficient data,6/24/2004,35.7,mg/Kg dw
+Monterey Harbor random site 20,309MTRY20,Central Coast,"Lead, Total",Insufficient data,6/24/2004,71.3,mg/Kg dw
+Monterey Harbor random site 12,309MTRY12,Central Coast,"Lead, Total",Insufficient data,6/24/2004,33.5,mg/Kg dw
+Monterey Harbor random site 16,309MTRY16,Central Coast,"Lead, Total",Insufficient data,6/24/2004,59,mg/Kg dw
+Monterey Harbor random site 28,309MTRY28,Central Coast,"Lead, Total",Insufficient data,6/24/2004,113,mg/Kg dw
+Santa Cruz Harbor random site 7,304SCRZ07,Central Coast,"Lead, Total",Insufficient data,6/23/2004,18.6,mg/Kg dw
+Santa Cruz Harbor random site 10,304SCRZ10,Central Coast,"Lead, Total",Insufficient data,6/23/2004,10.1,mg/Kg dw
+Moss Landing Harbor random site 22,306MSLG22,Central Coast,"Lead, Total",Insufficient data,6/23/2004,9.19,mg/Kg dw
+Moss Landing Harbor random site 14,306MSLG14,Central Coast,"Lead, Total",Insufficient data,6/23/2004,10.6,mg/Kg dw
+Santa Cruz Harbor random site 23,304SCRZ23,Central Coast,"Lead, Total",Insufficient data,6/23/2004,21,mg/Kg dw
+Santa Cruz Harbor random site 2,304SCRZ02,Central Coast,"Lead, Total",Insufficient data,6/23/2004,19.3,mg/Kg dw
+Moss Landing Harbor random site 6,306MSLG06,Central Coast,"Lead, Total",Insufficient data,6/23/2004,6.71,mg/Kg dw
+Santa Cruz Harbor random site 15,304SCRZ15,Central Coast,"Lead, Total",Insufficient data,6/23/2004,21.7,mg/Kg dw
+Santa Cruz Harbor random site 18,304SCRZ18,Central Coast,"Lead, Total",Insufficient data,6/23/2004,24.1,mg/Kg dw
+Port San Luis random site 25,310SNLS25,Central Coast,"Lead, Total",Insufficient data,6/22/2004,24.1,mg/Kg dw
+Port San Luis random site 17,310SNLS17,Central Coast,"Lead, Total",Insufficient data,6/22/2004,6.76,mg/Kg dw
+Port San Luis random site 1,310SNLS01,Central Coast,"Lead, Total",Insufficient data,6/22/2004,8.07,mg/Kg dw
+Port San Luis random site 21,310SNLS21,Central Coast,"Lead, Total",Insufficient data,6/22/2004,9.89,mg/Kg dw
+Port San Luis random site 5,310SNLS05,Central Coast,"Lead, Total",Insufficient data,6/22/2004,5.22,mg/Kg dw
+Port San Luis random site 9,310SNLS09,Central Coast,"Lead, Total",Insufficient data,6/22/2004,5.44,mg/Kg dw
+Santa Barbara Harbor random site 13,315SBRB13,Central Coast,"Lead, Total",Insufficient data,6/21/2004,42.8,mg/Kg dw
+Santa Barbara Harbor random site 3,315SBRB03,Central Coast,"Lead, Total",Insufficient data,6/21/2004,29.85,mg/Kg dw
+Santa Barbara Harbor random site 29,315SBRB29,Central Coast,"Lead, Total",Insufficient data,6/21/2004,12.4,mg/Kg dw
+Santa Barbara Harbor random site 11,315SBRB11,Central Coast,"Lead, Total",Insufficient data,6/21/2004,30.5,mg/Kg dw
+Santa Barbara Harbor random site 19,315SBRB19,Central Coast,"Lead, Total",Insufficient data,6/21/2004,31.2,mg/Kg dw
+Santa Barbara Harbor random site 27,315SBRB27,Central Coast,"Lead, Total",Insufficient data,6/21/2004,53.5,mg/Kg dw
+Port Chicago Highway,207MTD010,San Francisco Bay,"Lead, Total",Insufficient data,4/21/2003,17.2,mg/Kg dw
+Bight station 4266,405LA4266,Los Angeles,"Lead, Total",Insufficient data,10/23/2003,3.86,ug/L
+Bight station 4146,405LA4146,Los Angeles,"Lead, Total",Insufficient data,10/22/2003,3.56,ug/L
+Bight station 4274,405LA4274,Los Angeles,"Lead, Total",Insufficient data,10/22/2003,3.98,ug/L
+Bight station 4098,405LA4098,Los Angeles,"Lead, Total",Insufficient data,10/22/2003,4.92,ug/L
+Bight station 4162,405LA4162,Los Angeles,"Lead, Total",Insufficient data,10/22/2003,4.23,ug/L
+Bight station 4226,405LA4226,Los Angeles,"Lead, Total",Insufficient data,10/22/2003,8.08,ug/L
+Bight station 4210,405LA4210,Los Angeles,"Lead, Total",Insufficient data,10/22/2003,6,ug/L
+Bight station 4242,405LA4242,Los Angeles,"Lead, Total",Insufficient data,10/21/2003,1.755,ug/L
+Bight station 4178,405LA4178,Los Angeles,"Lead, Total",Insufficient data,10/21/2003,1.52,ug/L
+Bight station 4050,405LA4050,Los Angeles,"Lead, Total",Insufficient data,10/20/2003,0.67,ug/L
+East Branch North Fork Feather River above North Fork Feather River,518EBABNF,Central Valley,"Lead, Total",Insufficient data,9/10/2003,2.5,ug/L
+North Fork Feather River above East Branch North Fork Feather River,518NFABEB,Central Valley,"Lead, Total",Insufficient data,9/10/2003,2.5,ug/L
+Spanish Creek above Indian Creek,518SPABIN,Central Valley,"Lead, Total",Insufficient data,9/10/2003,2.5,ug/L
+Red Clover Creek above Indian Creek,518RCABIN,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+North Fork Feather River at Domingo Springs,518NFATDS,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+Wolf Creek at Greenville,518WLFGRN,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+Lights Creek at Deadfall Bridge,518LIGHTS,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+Indian Creek Flournoy Bridge,518INFLBR,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+Indian Creek at Taylorsville Bridge,518INDTVL,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+Butte Creek,518BUT307,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+Last Chance Creek below Murdock Crossing,518LCBWMX,Central Valley,"Lead, Total",Insufficient data,9/9/2003,2.5,ug/L
+Rock Creek Spanish Tributary,518ROCKSP,Central Valley,"Lead, Total",Insufficient data,9/8/2003,2.5,ug/L
+Greenhorn Creek,518GRNHRN,Central Valley,"Lead, Total",Insufficient data,9/8/2003,2.5,ug/L
+Spanish Creek above Greenhorn Creek,518SPABGR,Central Valley,"Lead, Total",Insufficient data,9/8/2003,2.5,ug/L
+Sulphur Creek,518SULFUR,Central Valley,"Lead, Total",Insufficient data,9/8/2003,2.5,ug/L
+Jamison Creek,518JAMISN,Central Valley,"Lead, Total",Insufficient data,9/8/2003,2.5,ug/L
+Middle Fork Feather River above Nelson Creek,518MFABNI,Central Valley,"Lead, Total",Insufficient data,9/8/2003,2.5,ug/L
+Lake Machado LT3,411MDOLT3,Los Angeles,"Lead, Total",Insufficient data,8/4/2003,31.1,mg/Kg dw
+Lake Machado LT5,411MDOLT5,Los Angeles,"Lead, Total",Insufficient data,8/4/2003,76,mg/Kg dw
+Lake Machado LT2,411MDOLT2,Los Angeles,"Lead, Total",Insufficient data,8/4/2003,54.2,mg/Kg dw
+Lake Machado LT1,411MDOLT1,Los Angeles,"Lead, Total",Insufficient data,8/4/2003,119,mg/Kg dw
+Lake Machado LT4,411MDOLT4,Los Angeles,"Lead, Total",Insufficient data,8/4/2003,75.4,mg/Kg dw
+Mt. House Creek @ Mt. House Parkway,544SJC509,Central Valley,"Lead, Total",Insufficient data,10/29/2002,2.5,ug/L
+Shasta River at Montague,105SHAMON,North Coast,"Lead, Total",Insufficient data,4/8/2003,0.089,ug/L
+Trinity River at Poker Bar (d/s Grass Valley Cr.),106TRINPB,North Coast,"Lead, Total",Insufficient data,3/27/2002,0.005,ug/L
+Trinity River at Douglas City,106TRINDC,North Coast,"Lead, Total",Insufficient data,3/26/2002,0.005,ug/L
+Trinity River at Hoopa,106TRINHP,North Coast,"Lead, Total",Insufficient data,3/25/2002,0.028,ug/L
+Mitchell on Oak St,207MTD100,San Francisco Bay,"Lead, Total",Insufficient data,1/21/2003,0.025,ug/L
+Kirker Creek Apartments,207KIR115,San Francisco Bay,"Lead, Total",Insufficient data,1/21/2003,0.854,ug/L
+Newhall Ranch Blue Cut,403STCNRB,Los Angeles,"Lead, Total",Insufficient data,11/13/2001,9.32,mg/Kg dw
+Water Lane,202PES050,San Francisco Bay,"Lead, Total",Insufficient data,1/28/2003,0.053,ug/L
+Cloverdale Rd,202PES070,San Francisco Bay,"Lead, Total",Insufficient data,1/22/2003,0.063,ug/L
+Calaveritas Creek @ Hwy 49,533CAL002,Central Valley,"Lead, Total",Insufficient data,6/26/2002,2.5,ug/L
+N. Fork Calaveras River @ Gold Strike Rd.,533CAL003,Central Valley,"Lead, Total",Insufficient data,6/26/2002,2.5,ug/L
+Calaveras River at Hwy 88,531SJC513,Central Valley,"Lead, Total",Insufficient data,6/24/2002,2.5,ug/L
+Salton Sea Drain NW1 (Torrez Martinez 1),728SSDNW1,Colorado River,"Lead, Total",Insufficient data,9/30/2002,7.43,mg/Kg dw
+Salton Sea USGS10,728SSGS10,Colorado River,"Lead, Total",Insufficient data,9/30/2002,14,mg/Kg dw
+Creamery Gulch,201LAG270,San Francisco Bay,"Lead, Total",Insufficient data,10/1/2001,13.2,mg/Kg dw
+Rockville,207SUI020,San Francisco Bay,"Lead, Total",Insufficient data,6/17/2002,12.3,mg/Kg dw
+Lauterwasser Creek,206SPA200,San Francisco Bay,"Lead, Total",Insufficient data,4/10/2002,0.05,ug/L
+Eel River near Hearst,111ER7314,North Coast,"Lead, Total",Insufficient data,2/7/2002,0.016,ug/L
+Green Bridge (Hwy 1),201LAG120,San Francisco Bay,"Lead, Total",Insufficient data,6/18/2002,4.39,mg/Kg dw
+Richmond Parkway,206WIL020,San Francisco Bay,"Lead, Total",Insufficient data,6/17/2002,13.1,mg/Kg dw
+Elk River - South Fork,110SE0293,North Coast,"Lead, Total",Insufficient data,2/27/2002,0.347,ug/L
+Yager Creek at Carlotta,111YC0468,North Coast,"Lead, Total",Insufficient data,2/26/2002,0.36,ug/L
+Van Duzen River at Bridgeville,111VD4108,North Coast,"Lead, Total",Insufficient data,2/26/2002,0.267,ug/L
+Van Duzen River near Dinsmore,111VD6485,North Coast,"Lead, Total",Insufficient data,2/26/2002,0.072,ug/L
+Mad River at Ruth,109MADRUT,North Coast,"Lead, Total",Insufficient data,2/26/2002,0.029,ug/L
+Mad River at Butler Valley,109MADBUT,North Coast,"Lead, Total",Insufficient data,2/25/2002,0.464,ug/L
+Eel River - South Fork near Benbow,111EELBEN,North Coast,"Lead, Total",Insufficient data,2/24/2002,0.364,ug/L
+"Monitor Cr below Lexington Canyon, above Goskey Cr",632MON001,Lahontan,"Lead, Total",Insufficient data,5/14/2002,1,ug/L
+Monitor Cr below Heenan Res,632MON003,Lahontan,"Lead, Total",Insufficient data,5/14/2002,1,ug/L
+Monitor Cr above Lexington Canyon,632MON002,Lahontan,"Lead, Total",Insufficient data,5/14/2002,1,ug/L
+"Goskey Cr, above HWY 89",632GOS001,Lahontan,"Lead, Total",Insufficient data,5/14/2002,1,ug/L
+Scott River at Fort Jones,105SCOTFJ,North Coast,"Lead, Total",Insufficient data,3/28/2002,0.005,ug/L
+Kaiser Creek at Callahan,204SLE230,San Francisco Bay,"Lead, Total",Insufficient data,4/10/2002,0.32,ug/L
+3rd St. Bridge,206SPA020,San Francisco Bay,"Lead, Total",Insufficient data,9/26/2001,16.2,mg/Kg dw
+Walker Creek,201WLK090,San Francisco Bay,"Lead, Total",Insufficient data,10/2/2001,7.96,mg/Kg dw
+Castaic Creek,403STCCTC,Los Angeles,"Lead, Total",Insufficient data,11/13/2001,14.439,mg/Kg dw
+Calleguas Creek Main Stem (downstream of  confluence with Revolon Slough),408CAL004,Los Angeles,"Lead, Total",Insufficient data,11/12/2001,0.723,ug/L
+Piru Creek,403STCPRU,Los Angeles,"Lead, Total",Insufficient data,11/1/2001,5.986,mg/Kg dw
+Santa Paula Creek,403STCSTP,Los Angeles,"Lead, Total",Insufficient data,11/1/2001,2.357,mg/Kg dw
+Beardsley Wash at Central Avenue,408CALBWC,Los Angeles,"Lead, Total",Insufficient data,10/31/2001,0.154,ug/L
+South Branch Arroyo Conejo,408CAL011,Los Angeles,"Lead, Total",Insufficient data,10/31/2001,1.31,ug/L
+San Francisquito Creek,403STCSFO,Los Angeles,"Lead, Total",Insufficient data,10/31/2001,24.871,ug/L
+North Fork Arroyo Conejo,408CAL010,Los Angeles,"Lead, Total",Insufficient data,10/31/2001,0.464,ug/L
+Arroyo Santa Rosa,408CAL009,Los Angeles,"Lead, Total",Insufficient data,10/31/2001,0.077,ug/L
+Conejo Creek,408CAL007,Los Angeles,"Lead, Total",Insufficient data,10/29/2001,0.796,ug/L
+Arroyo Las Posas,408CAL008,Los Angeles,"Lead, Total",Insufficient data,10/30/2001,1.54,ug/L
+Arroyo Simi,408CAL012,Los Angeles,"Lead, Total",Insufficient data,10/30/2001,0.562,ug/L
+Tapo Canyon Tributary,408CAL013,Los Angeles,"Lead, Total",Insufficient data,10/30/2001,2.68,ug/L
+Mugu Drain,408CAL003,Los Angeles,"Lead, Total",Insufficient data,10/29/2001,3.15,ug/L
+Rio de Santa Clara,408CAL002,Los Angeles,"Lead, Total",Insufficient data,10/29/2001,0.405,ug/L
+mainstem Novarro at Dimmick,113MSNDIM,North Coast,"Lead, Total",Insufficient data,6/29/2001,37.5,ug/L
+MAINSTEM ALBION,113ALBMST,North Coast,"Lead, Total",Insufficient data,6/29/2001,37.5,ug/L
+RANCHERIA CREEK NR PHILO,113RNCPHO,North Coast,"Lead, Total",Insufficient data,6/29/2001,37.5,ug/L
+INDIAN CREEK AT PHILO,113INDPHO,North Coast,"Lead, Total",Insufficient data,6/29/2001,37.5,ug/L
+NOYO RIVER AT HAYSHED SIDING GAGE,113NO1811,North Coast,"Lead, Total",Insufficient data,6/29/2001,37.5,ug/L
+Navarro River at Philo,113NAVPHO,North Coast,"Lead, Total",Insufficient data,6/29/2001,37.5,ug/L
+N. Fork Navarro R. at Dimmick,113NFNDIM,North Coast,"Lead, Total",Insufficient data,6/29/2001,37.5,ug/L
+WAGES CREEK AT HIGHWAY ONE,113WA0532,North Coast,"Lead, Total",Insufficient data,6/28/2001,37.5,ug/L
+S FORK BIG RIVER AT DAUGHERTY CR,113SFBIGD,North Coast,"Lead, Total",Insufficient data,6/28/2001,37.5,ug/L
+ALBION RIVER AT COMPTCHE,113ALBCOM,North Coast,"Lead, Total",Insufficient data,6/28/2001,37.5,ug/L
+Ten Mile River above South Fork Ten Mile River,113TE6637,North Coast,"Lead, Total",Insufficient data,6/28/2001,37.5,ug/L
+N FK BIG RIVER AT HWY 20,113BIGH20,North Coast,"Lead, Total",Insufficient data,6/28/2001,37.5,ug/L
+BIG RIVER AT MENDOCINO WOODLANDS,113BI2655,North Coast,"Lead, Total",Insufficient data,6/28/2001,37.5,ug/L
+Gualala River at House Creek,113GUAHSE,North Coast,"Lead, Total",Insufficient data,6/27/2001,37.5,ug/L
+Little River at Hiway One,113LITHW1,North Coast,"Lead, Total",Insufficient data,6/27/2001,37.5,ug/L
+South Fork of Garcia River,113GARSFK,North Coast,"Lead, Total",Insufficient data,6/27/2001,37.5,ug/L
+So. Fk Gualala at Hauser Bridge,113SGUAHB,North Coast,"Lead, Total",Insufficient data,6/27/2001,37.5,ug/L
+Dry Creek at the Russian River,114DRCRRR,North Coast,"Lead, Total",Insufficient data,6/26/2001,50,ug/L
+Russian River at Comminski Station,114RRCOMM,North Coast,"Lead, Total",Insufficient data,6/25/2001,50,ug/L
+Russian River at Hopland,114RRHOP1,North Coast,"Lead, Total",Insufficient data,6/25/2001,50,ug/L
+Russian River at Russian River Estates,114RRRRES,North Coast,"Lead, Total",Insufficient data,6/25/2001,50,ug/L
+Russian River at Wohler Dam,114RRWOH,North Coast,"Lead, Total",Insufficient data,6/25/2001,50,ug/L
+Goodrich Creek,518GRDICH,Central Valley,"Lead, Total",Insufficient data,6/20/2001,0.062,ug/L
+Middle Fork Feather River at Beckwourth,518MFFBCK,Central Valley,"Lead, Total",Insufficient data,6/19/2001,0.961,ug/L
+Mt. House Creek,544SJC033,Central Valley,"Lead, Total",Insufficient data,11/28/2000,2.5,ug/L
+Mattole River at Honeydew,112MATHON,North Coast,"Lead, Total",Insufficient data,5/17/2001,37.5,ug/L
+MATTOLE RIVER AT ETTERSBURG,112MATETT,North Coast,"Lead, Total",Insufficient data,5/17/2001,37.5,ug/L
+Copper Bluff Mine Drainage (Trinity River),106CUBLUF,North Coast,"Lead, Total",Insufficient data,4/24/2001,42,ug/L
+San Mateo Creek at Gateway Park,204SMA020,San Francisco Bay,"Lead, Total",No significant trend,7/15/2020,29.7,mg/Kg dw
+Walker Creek Ranch,201WLK160,San Francisco Bay,"Lead, Total",No significant trend,7/15/2020,7.11,mg/Kg dw
+Laurel Creek @ Pintail Drive,207LAU020,San Francisco Bay,"Lead, Total",No significant trend,7/15/2020,9.15,mg/Kg dw
+Sonoma Creek at Hwy 121 bridge,206SON010,San Francisco Bay,"Lead, Total",No significant trend,7/15/2020,9.87,mg/Kg dw
+San Leandro Creek at Empire Road,204SLE030,San Francisco Bay,"Lead, Total",No significant trend,7/17/2020,60.9,mg/Kg dw
+Guadalupe Creek @ USGS Gaging Station 11169025,205GUA020,San Francisco Bay,"Lead, Total",No significant trend,7/17/2020,24.2,mg/Kg dw
+Alameda Creek E. of Alvarado Blvd,204ALA020,San Francisco Bay,"Lead, Total",No significant trend,7/17/2020,8.46,mg/Kg dw
+Marsh Creek at East Cypress Crossing,541MERECY,Central Valley,"Lead, Total",No significant trend,7/15/2020,11,mg/Kg dw
+Coyote Creek at Montague,205COY060,San Francisco Bay,"Lead, Total",No significant trend,7/17/2020,20.2,mg/Kg dw
+Pajaro River at Thurwachter Bridge,305THU,Central Coast,"Lead, Total",No significant trend,6/22/2020,12.3,mg/Kg dw
+Carmel River at Highway 1,307CML,Central Coast,"Lead, Total",No significant trend,6/22/2020,13,mg/Kg dw
+San Lorenzo River below Water Street,304SLRWAT,Central Coast,"Lead, Total",No significant trend,6/22/2020,19.3,mg/Kg dw
+Tembladero Slough at Monterey Dunes Way,309TDW,Central Coast,"Lead, Total",No significant trend,6/22/2020,14,mg/Kg dw
+Soquel Creek at Knob Hill Parking Lot,304SOK,Central Coast,"Lead, Total",No significant trend,6/22/2020,10.35,mg/Kg dw
+Chorro Creek at South Bay Boulevard,310TWB,Central Coast,"Lead, Total",No significant trend,12/7/2017,0.03,ug/L
+Santa Rosa Ck at Moonstone Beach Drive,310SRO,Central Coast,"Lead, Total",No significant trend,12/7/2017,0.03,ug/L
+San Luis Obispo Creek at San Luis Bay Drive,310SLB,Central Coast,"Lead, Total",No significant trend,6/23/2020,10.3,mg/Kg dw
+San Simeon Creek at State Park foot bridge,310SSC,Central Coast,"Lead, Total",No significant trend,12/7/2017,0.04,ug/L
+"Pismo Creek above Highway 101, Frady Lane Bridge",310PIS,Central Coast,"Lead, Total",No significant trend,12/7/2017,0.03,ug/L
+Franklin Creek at 7th Street,315FRC,Central Coast,"Lead, Total",No significant trend,1/13/2020,0.08,ug/L
+Canada de la Gaviota at State Park entrance,315GAV,Central Coast,"Lead, Total",No significant trend,1/16/2020,0.045,ug/L
+Mission Creek at Montecito Street,315MIS,Central Coast,"Lead, Total",No significant trend,6/24/2020,10.6,mg/Kg dw
+Arroyo Burro at Cliff Drive,315ABU,Central Coast,"Lead, Total",No significant trend,1/14/2020,0.045,ug/L
+San Gabriel River RA-2,405SGRA2x,Los Angeles,"Lead, Total",No significant trend,6/10/2020,29.5,mg/Kg dw
+Santa Clara River Estuary,403STCEST,Los Angeles,"Lead, Total",No significant trend,6/24/2020,12.3,mg/Kg dw
+Ballona Creek Downstream of Sawtelle (Centinella),404BLNAxx,Los Angeles,"Lead, Total",No significant trend,6/9/2020,24,mg/Kg dw
+Ventura River Bio 0,402VRB0xx,Los Angeles,"Lead, Total",No significant trend,6/24/2020,13.1,mg/Kg dw
+"Calleguas Creek Below Camrosa WWTP, Site 6",408CGCS06,Los Angeles,"Lead, Total",No significant trend,6/24/2020,12.1,mg/Kg dw
+Chino Creek (San Antonio Ck) at Euclid/Hwy 83 bridge,801CCPT12,Santa Ana,"Lead, Total",No significant trend,6/9/2020,14.1,mg/Kg dw
+Santa Ana River at Prado Basin Park Rd,801SARVRx,Santa Ana,"Lead, Total",No significant trend,6/9/2020,18.4,mg/Kg dw
+Scott Creek Lagoon at Highway 1,304SCO,Central Coast,"Lead, Total",No significant trend,12/19/2017,0.015,ug/L
+Gazos Creek Lagoon at Highway 1,304GAZ,Central Coast,"Lead, Total",No significant trend,6/13/2018,11,mg/Kg dw
+Waddell Creek Lagoon at Highway 1,304WAD,Central Coast,"Lead, Total",No significant trend,12/19/2017,0.05,ug/L
+San Antonio Creek at San Antonio Rd West,313SAI,Central Coast,"Lead, Total",No significant trend,6/23/2020,6.94,mg/Kg dw
+Santa Maria River above Estuary,312SMA,Central Coast,"Lead, Total",No significant trend,6/23/2020,4.26,mg/Kg dw
+Santa Ynez River at 13th Street,314SYN,Central Coast,"Lead, Total",No significant trend,6/23/2020,4.06,mg/Kg dw
+Atascadero Creek at Ward Drive,315ATA,Central Coast,"Lead, Total",No significant trend,6/23/2020,15.5,mg/Kg dw
+San Dieguito River 9,905SDSDQ9,San Diego,"Lead, Total",No significant trend,6/11/2020,7.545,mg/Kg dw
+Los Penasquitos Creek 6,906LPLPC6,San Diego,"Lead, Total",No significant trend,6/10/2020,18.3,mg/Kg dw
+Sweetwater River at Willow Street,909SWRWSx,San Diego,"Lead, Total",No significant trend,6/11/2020,22.3,mg/Kg dw
+San Diego River at Ward Road,907SDRWAR,San Diego,"Lead, Total",No significant trend,6/11/2020,24.8,mg/Kg dw
+San Juan Creek 9,901SJSJC9,San Diego,"Lead, Total",No significant trend,6/10/2020,10.175,mg/Kg dw
+San Diego Creek at Campus,801SDCxxx,Santa Ana,"Lead, Total",No significant trend,6/10/2020,13.1,mg/Kg dw
+Bouquet Canyon Creek,403STCBQT,Los Angeles,"Lead, Total",No significant trend,6/24/2020,13.1,mg/Kg dw
+Coachella Valley Stormwater Channel Outlet,719CVSCOT,Colorado River,"Lead, Total",No significant trend,10/29/2020,15,mg/Kg dw
+Alamo River Outlet,723ARGRB1,Colorado River,"Lead, Total",No significant trend,10/29/2020,13.3,mg/Kg dw
+New River Outlet,723NROTWM,Colorado River,"Lead, Total",No significant trend,10/29/2020,15.4,mg/Kg dw
+Palo Verde Outfall Drain (PVOD2),715CPVOD2,Colorado River,"Lead, Total",No significant trend,1/6/2020,16,mg/Kg dw
+New River at Boundary,723NRBDRY,Colorado River,"Lead, Total",No significant trend,1/13/2020,33.8,mg/Kg dw
+Colorado River at Imperial Dam Grates,715CRIDG1,Colorado River,"Lead, Total",No significant trend,11/13/2018,17.3,mg/Kg dw
+Lower Truckee River near CA/NV state line,635TRKSED,Lahontan,"Lead, Total",No significant trend,8/19/2020,11,mg/Kg dw
+Martis Creek near mouth,635MARSED,Lahontan,"Lead, Total",No significant trend,8/18/2020,9.26,mg/Kg dw
+Susan River nr Litchfield,637SUS001,Lahontan,"Lead, Total",No significant trend,8/19/2020,8.64,mg/Kg dw
+West Fork Carson River at Paynesville,633WCRSED,Lahontan,"Lead, Total",No significant trend,8/18/2020,10.5,mg/Kg dw
+West Walker River at Larson Lane,631WWKLAR,Lahontan,"Lead, Total",No significant trend,8/18/2020,13.7,mg/Kg dw
+Upper Truckee River near inlet to Lake Tahoe,634UTRSED,Lahontan,"Lead, Total",No significant trend,8/18/2020,12.4,mg/Kg dw
+Bishop Cr Canal at East Line St,603BSP002,Lahontan,"Lead, Total",No significant trend,8/17/2020,15.9,mg/Kg dw
+Laguna de Santa Rosa upstream of Wohler Street Bridge,114LAGWOH,North Coast,"Lead, Total",No significant trend,9/23/2020,14.7,mg/Kg dw
+Eel River at Fernbridge,111EELFRN,North Coast,"Lead, Total",No significant trend,8/26/2020,5.28,mg/Kg dw
+Russian River downstream Duncan Mills,114RRDSDM,North Coast,"Lead, Total",No significant trend,9/23/2020,6.83,mg/Kg dw
+Navarro River at Dimmick State Park,113NA3269,North Coast,"Lead, Total",No significant trend,8/27/2020,7.02,mg/Kg dw
+Klamath River at Kamp Klamath,105KLAMKK,North Coast,"Lead, Total",No significant trend,8/26/2020,5.47,mg/Kg dw
+Mad River upstream Hwy 101,109MAD101,North Coast,"Lead, Total",No significant trend,8/26/2020,4.66,mg/Kg dw
+Orestimba Creek @ River Road,541STC019,Central Valley,"Lead, Total",No significant trend,8/25/2020,13,mg/Kg dw
+Del Puerto Creek at Vineyard Avenue,541STC516,Central Valley,"Lead, Total",No significant trend,8/25/2020,12.1,mg/Kg dw
+Dry Creek @ La Loma Rd.,535STC206,Central Valley,"Lead, Total",No significant trend,8/25/2020,12.7,mg/Kg dw
+Sac R @ Hamilton City,504SACHMN,Central Valley,"Lead, Total",No significant trend,8/5/2020,5.16,mg/Kg dw
+Sacramento River @ Balls Ferry,508SACBLF,Central Valley,"Lead, Total",No significant trend,8/5/2020,12.1,mg/Kg dw
+Kings River - S. Fork,551LKI040,Central Valley,"Lead, Total",No significant trend,9/9/2020,16.2,mg/Kg dw
+American River at Discovery Park,519AMNDVY,Central Valley,"Lead, Total",No significant trend,8/19/2020,6.73,mg/Kg dw
+Sacramento Slough @ Karnak,515SACKNK,Central Valley,"Lead, Total",No significant trend,8/19/2020,11,mg/Kg dw
+Yuba R @ Maryville,515YBAMVL,Central Valley,"Lead, Total",No significant trend,7/9/2018,11.5,mg/Kg dw
+Butte Slough upsteam of Pass Road Bridge,520BUTPAS,Central Valley,"Lead, Total",No significant trend,8/5/2020,10.9,mg/Kg dw
+Feather R @ Nicolaus,519FTRNCS,Central Valley,"Lead, Total",No significant trend,8/13/2020,10.4,mg/Kg dw
+Bear R @ Berry Rd.,519BERBRY,Central Valley,"Lead, Total",No significant trend,8/13/2020,10.7,mg/Kg dw
+Clarksburg Marina,510LSAC08,Central Valley,"Lead, Total",No significant trend,9/3/2020,7.07,mg/Kg dw
+Sutter Creek @ Hwy 49,532AMA002,Central Valley,"Lead, Total",No significant trend,8/19/2020,16.2,mg/Kg dw
+Arroyo Grande Creek at 22nd Street,310ARG,Central Coast,"Lead, Total",No significant trend,6/23/2020,15.8,mg/Kg dw
+Packwood Creek in pond upstream of Road 94,558PKC005,Central Valley,"Lead, Total",No significant trend,9/9/2020,18.3,mg/Kg dw
+Cross Creek - Rd. 60 and Hwy 99,558CCR010,Central Valley,"Lead, Total",No significant trend,9/9/2020,9.08,mg/Kg dw
+Tule River - Rd. 64 bridge,558TUR090,Central Valley,"Lead, Total",No significant trend,9/9/2020,12.8,mg/Kg dw
+Cache Creek @ Hwy 113,511CAC113,Central Valley,"Lead, Total",No significant trend,8/19/2020,4.88,mg/Kg dw
+Trout Creek (Truckee) near mouth,635TROSED,Lahontan,"Lead, Total",No significant trend,8/18/2020,49.1,mg/Kg dw
+Big Chico Creek @ Rose Ave,504BCHROS,Central Valley,"Lead, Total",No significant trend,8/5/2020,10.7,mg/Kg dw
+Kirker Creek at Floodway,207KIR020,Central Valley,"Lead, Total",No significant trend,7/17/2020,16,mg/Kg dw
+Sespe Creek,403STCSSP,Los Angeles,"Lead, Total",No significant trend,6/24/2020,12,mg/Kg dw
+Santa Rosa Creek at Willowside Road,114SR0761_SWAMP,North Coast,"Lead, Total",No significant trend,11/16/2017,4.82,ug/L
+Palo Verde Lagoon (LG1),715CPVLG1,Colorado River,"Lead, Total",No significant trend,11/12/2018,8.4,mg/Kg dw
+Russian River at Healdsburg Veterans Memorial Beach,114RR2940,North Coast,"Lead, Total",No significant trend,12/20/2017,0.015,ug/L
+Walnut Creek @ Concord Ave O.C.,207WAL020,San Francisco Bay,"Lead, Total",Possibly decreasing,7/17/2020,18.4,mg/Kg dw
+Salinas River at Davis Road,309DAV,Central Coast,"Lead, Total",Possibly decreasing,6/22/2020,11.2,mg/Kg dw
+Los Angeles River at Willow,412LARWxx,Los Angeles,"Lead, Total",Possibly decreasing,6/9/2020,20.8,mg/Kg dw
+Tijuana River at Hollister Rd,911TJHRxx,San Diego,"Lead, Total",Possibly decreasing,6/11/2020,11.4,mg/Kg dw
+Escondido Creek at Camino del Norte,904ESCOxx,San Diego,"Lead, Total",Possibly decreasing,6/10/2020,8.14,mg/Kg dw
+Merced River @ River Road,535MER546,Central Valley,"Lead, Total",Possibly increasing,8/27/2020,12.9,mg/Kg dw
+Mud Slough downstream of San Luis Drain,541MER542,Central Valley,"Lead, Total",Possibly increasing,8/27/2020,10.9,mg/Kg dw
+Bear Creek near Bert Crane Road,535MER007,Central Valley,"Lead, Total",Possibly increasing,8/27/2020,10.2,mg/Kg dw
+Colusa Basin Drain @ Knights Landing Upstream,520CBDKLU,Central Valley,"Lead, Total",Possibly increasing,8/19/2020,16.4,mg/Kg dw
+Sacramento River at Colusa near Bridge Street,520SACLSA,Central Valley,"Lead, Total",Possibly decreasing,8/5/2020,5.41,mg/Kg dw
+Santa Margarita at Basilone Rd,902SSMR07,San Diego,"Lead, Total",Possibly decreasing,6/10/2020,9.76,mg/Kg dw
