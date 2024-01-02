@@ -4,3 +4,5 @@ Works in progress and new and updated course activities for using Python in lowe
 Find notebooks for current or recent courses in the relvent semester folders. 
 Also, please see the white paper "Developing and Supporting Computational Learning Objectives in
 Lower Division Science Courses" by Saturnino Garcia and Eleanor Gillette, for more detail about the current approach to incorporating CS concepts into analytical chemistry. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/egillette/Python4Analytical_worksinprogress/HEAD)
